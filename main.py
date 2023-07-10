@@ -92,6 +92,12 @@ def main():
                     else:
                         # for all other questions (with multiple choices)
                         question_type = qa_data[qa_id]["questions"][question]["question_type"]
+
+                        '''
+                        if question_type == "counterfactual":
+                            user_prompt += "This is a counterfactual question. Please answer accordingly. \n\n"
+                        '''
+
                         user_prompt = qa_data[qa_id]["questions"][question]["question"] # define user prompt
                         user_prompt += "\n"
                         for choice in range(len(qa_data[qa_id]["questions"][question]["choices"])):
