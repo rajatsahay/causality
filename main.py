@@ -128,7 +128,7 @@ def define_system_prompt(video_id):
     
     get_coords(video_id) # adds framewise coordinates to the system prompt
     try:
-        with open("gpt_logs_test/" + video_id + "_coords.txt", 'r') as f:
+        with open("gpt_coords/" + video_id + "_coords.txt", 'r') as f:
             coords = f.read()
             system_prompt += coords
     except FileNotFoundError:
