@@ -8,12 +8,12 @@ from scipy import spatial
 import pycocotools._mask as _mask
 import matplotlib.pyplot as plt
 import torch
-#import pandas as pd
+import pandas as pd
 # from detector import get_coords # deprecated
 
-#import ast
-#import openai
-#import tiktoken
+import ast
+import openai
+import tiktoken
 
 
 GPT_MODEL = "gpt-3.5-turbo"
