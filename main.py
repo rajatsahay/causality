@@ -62,7 +62,7 @@ def get_object_properties(video_id):
     """
     Gets the object properties (shape, color, material) from the ground truth annotation file (downloaded separately)
     """
-    annotation_path = "/Users/rajat/Downloads/annotation_validation/annotation_14000-15000/annotation_" + video_id + ".json" # CHANGE PATH
+    annotation_path = "/home/rajat/research/causality/annotation_validation/annotation_14000-15000/annotation_" + video_id + ".json" # CHANGE PATH
     annotation_file = open(annotation_path)
     annotation_data = json.load(annotation_file)
 
@@ -83,7 +83,7 @@ def get_coords(video_id):
     Returns framewise coordinates of each object from proposal_(video_id).json file (derendered proposals downloaded separately)
     Also writes it to a separate log file for later use
     """
-    proposal_path = "/Users/rajat/Downloads/derender_proposals/proposal_" + video_id + ".json"
+    proposal_path = "/home/rajat/research/causality/derender_proposals/proposal_" + video_id + ".json"
     prop_file = open(proposal_path)
     prop_data = json.load(prop_file)
 
@@ -91,7 +91,7 @@ def get_coords(video_id):
     print("\n") # separator for terminal output
 
     try:
-        with open("gpt_logs_test/" + video_id + "_coords.txt", 'w') as c:
+        with open("gpt_coords/" + video_id + "_coords.txt", 'w') as c:
             for i in range(len(idx)):
                 c.write("\nFrame " + str(idx[i]["frame_index"]) + " : " + "\n")
                 c.write("-------- \n")
@@ -139,7 +139,7 @@ def define_system_prompt(video_id):
     
     get_coords(video_id) # adds framewise coordinates to the system prompt
     try:
-        with open("gpt_logs_test/" + video_id + "_coords.txt", 'r') as f:
+        with open("gpt_coords/" + video_id + "_coords.txt", 'r') as f:
             coords = f.read()
             system_prompt += coords
     except FileNotFoundError:
@@ -158,14 +158,14 @@ def main():
 
     # ADD PATH TO DIRECTORY CONTAINING VIDEO FILES HERE
     video_ids = []
-    vid_path = "/Users/rajat/Desktop/microsoft/video_test/" # currently using only 1000 videos due to API rate limits
+    vid_path = "/home/rajat/research/causality/video_test/" # currently using only 1000 videos due to API rate limits
     for path in os.walk(vid_path):
         for id in path[2]:
             video_ids.append(id[6:11])
     #print(video_ids)
 
     # ADD PATH TO validation.json FILE HERE
-    qa_path = "/Users/rajat/Desktop/microsoft/validation.json"
+    qa_path = "/home/rajat/research/causality/validation.json"
     qa_file = open(qa_path)
     qa_data = json.load(qa_file)
 
@@ -177,7 +177,7 @@ def main():
         for qa_id in range(len(qa_data)):
             if qa_data[qa_id]["video_filename"][6:11] == video_id:
                 try:
-                    with open("gpt_logs_test/" + video_id + ".txt", 'w') as f:
+                    with open("gpt_logs/" + video_id + ".txt", 'w') as f:
                         f.write("Video ID: " + video_id + "\n")
                         for question in range(len(qa_data[qa_id]["questions"])):
                             if qa_data[qa_id]["questions"][question]["question_type"] == "descriptive":
