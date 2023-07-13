@@ -97,7 +97,11 @@ def get_coords(video_id):
                     object_properties = [idx[i]["objects"][j]["color"], idx[i]["objects"][j]["material"], idx[i]["objects"][j]["shape"]]
 
                     object_annotations = object_match(video_id)
-                    object_id = [obj_id for obj_id in object_annotations if object_annotations[obj_id] == object_properties][0]
+                    try:
+                        object_id = [obj_id for obj_id in object_annotations if object_annotations[obj_id] == object_properties][0]
+                    except IndexError:
+                        object_id = "X"
+                        print("Mismatched object properties in Video", video_id, "Frame", str(idx[i]["frame_index"]) + ". Object marked as Object X.")
 
                     mask_raw = decode(idx[i]["objects"][j]["mask"])
                     mask = cv2.resize(mask_raw, (W,H), interpolation=cv2.INTER_NEAREST)
