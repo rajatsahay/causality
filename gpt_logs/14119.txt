@@ -1,0 +1,14659 @@
+Video ID: 14119
+
+
+
+System Prompt: Given below are the properties of certain objects in a JSON format. The properties include the color, shape, and material of the objects.
+
+[{'object_id': 0, 'color': 'brown', 'material': 'rubber', 'shape': 'sphere'}, {'object_id': 1, 'color': 'gray', 'material': 'metal', 'shape': 'sphere'}, {'object_id': 2, 'color': 'cyan', 'material': 'rubber', 'shape': 'cube'}, {'object_id': 3, 'color': 'blue', 'material': 'metal', 'shape': 'cylinder'}]
+
+The objects defined above are moving on an XY Cartesian plane and their individual X and Y coordinates have been recorded for every frame. These are provided below.
+
+
+Frame 0 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 1 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 2 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 3 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 4 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 5 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 6 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 7 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 8 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 9 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 10 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 11 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 12 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 13 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 14 : 
+-------- 
+Object 2:(-1, -10)
+Object 1:(17, 51)
+
+
+Frame 15 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 16 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 17 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 18 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 19 : 
+-------- 
+Object 2:(-1, -7)
+Object 1:(17, 51)
+
+
+Frame 20 : 
+-------- 
+Object 2:(0, -7)
+Object 1:(17, 51)
+
+
+Frame 21 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 22 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 23 : 
+-------- 
+Object 2:(0, -4)
+Object 1:(17, 51)
+
+
+Frame 24 : 
+-------- 
+Object 0:(47, -10)
+Object 2:(0, -3)
+Object 1:(17, 51)
+
+
+Frame 25 : 
+-------- 
+Object 0:(46, -9)
+Object 2:(0, -2)
+Object 1:(17, 51)
+
+
+Frame 26 : 
+-------- 
+Object 0:(45, -8)
+Object 2:(0, -1)
+Object 1:(17, 51)
+
+
+Frame 27 : 
+-------- 
+Object 0:(43, -6)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 28 : 
+-------- 
+Object 0:(42, -5)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 29 : 
+-------- 
+Object 0:(41, -3)
+Object 2:(0, 1)
+Object 1:(17, 51)
+
+
+Frame 30 : 
+-------- 
+Object 0:(40, -1)
+Object 2:(0, 2)
+Object 1:(17, 51)
+
+
+Frame 31 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(39, 1)
+Object 2:(0, 3)
+Object 1:(17, 51)
+
+
+Frame 32 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(38, 3)
+Object 2:(0, 4)
+Object 1:(17, 51)
+
+
+Frame 33 : 
+-------- 
+Object 3:(-10, 75)
+Object 0:(37, 5)
+Object 2:(0, 5)
+Object 1:(17, 51)
+
+
+Frame 34 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(36, 8)
+Object 2:(0, 6)
+Object 1:(17, 51)
+
+
+Frame 35 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(35, 10)
+Object 2:(1, 7)
+Object 1:(17, 51)
+
+
+Frame 36 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 12)
+Object 2:(1, 9)
+Object 1:(17, 51)
+
+
+Frame 37 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 14)
+Object 2:(1, 10)
+Object 1:(17, 51)
+
+
+Frame 38 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(33, 16)
+Object 2:(1, 11)
+Object 1:(17, 51)
+
+
+Frame 39 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(32, 18)
+Object 2:(1, 12)
+Object 1:(17, 51)
+
+
+Frame 40 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(31, 20)
+Object 2:(1, 13)
+Object 1:(17, 51)
+
+
+Frame 41 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(30, 22)
+Object 2:(2, 14)
+Object 1:(17, 51)
+
+
+Frame 42 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 24)
+Object 2:(2, 15)
+Object 1:(17, 51)
+
+
+Frame 43 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 26)
+Object 2:(2, 16)
+Object 1:(17, 51)
+
+
+Frame 44 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(28, 27)
+Object 2:(2, 17)
+Object 1:(17, 51)
+
+
+Frame 45 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(27, 29)
+Object 2:(2, 18)
+Object 1:(17, 51)
+
+
+Frame 46 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(26, 31)
+Object 2:(2, 19)
+Object 1:(17, 51)
+
+
+Frame 47 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(26, 32)
+Object 2:(2, 20)
+Object 1:(17, 51)
+
+
+Frame 48 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(25, 34)
+Object 2:(2, 21)
+Object 1:(17, 51)
+
+
+Frame 49 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 36)
+Object 2:(3, 22)
+Object 1:(17, 51)
+
+
+Frame 50 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 37)
+Object 2:(3, 23)
+Object 1:(17, 51)
+
+
+Frame 51 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(23, 39)
+Object 2:(3, 24)
+Object 1:(17, 51)
+
+
+Frame 52 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 40)
+Object 2:(3, 25)
+Object 1:(17, 51)
+
+
+Frame 53 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 42)
+Object 2:(3, 26)
+Object 1:(17, 51)
+
+
+Frame 54 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 43)
+Object 2:(3, 28)
+Object 1:(17, 52)
+
+
+Frame 55 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 44)
+Object 2:(3, 28)
+Object 1:(16, 52)
+
+
+Frame 56 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 45)
+Object 2:(4, 30)
+Object 1:(16, 53)
+
+
+Frame 57 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 46)
+Object 2:(4, 31)
+Object 1:(16, 53)
+
+
+Frame 58 : 
+-------- 
+Object 3:(-7, 72)
+Object 0:(20, 47)
+Object 2:(4, 32)
+Object 1:(15, 54)
+
+
+Frame 59 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(20, 47)
+Object 2:(4, 33)
+Object 1:(15, 54)
+
+
+Frame 60 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 48)
+Object 2:(4, 34)
+Object 1:(14, 55)
+
+
+Frame 61 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 49)
+Object 2:(4, 35)
+Object 1:(14, 56)
+
+
+Frame 62 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 36)
+Object 1:(14, 56)
+
+
+Frame 63 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 37)
+Object 1:(13, 57)
+
+
+Frame 64 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 51)
+Object 2:(5, 38)
+Object 1:(13, 57)
+
+
+Frame 65 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 39)
+Object 1:(13, 58)
+
+
+Frame 66 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 40)
+Object 1:(13, 58)
+
+
+Frame 67 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 53)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 68 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 54)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 69 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(17, 55)
+Object 2:(5, 42)
+Object 1:(11, 60)
+
+
+Frame 70 : 
+-------- 
+Object 3:(-4, 71)
+Object 0:(17, 55)
+Object 2:(5, 43)
+Object 1:(11, 60)
+
+
+Frame 71 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 56)
+Object 2:(5, 44)
+Object 1:(11, 61)
+
+
+Frame 72 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(5, 45)
+Object 1:(11, 61)
+
+
+Frame 73 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(6, 46)
+Object 1:(10, 61)
+
+
+Frame 74 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(16, 58)
+Object 2:(6, 47)
+Object 1:(10, 62)
+
+
+Frame 75 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 58)
+Object 2:(6, 48)
+Object 1:(10, 62)
+
+
+Frame 76 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 59)
+Object 2:(6, 49)
+Object 1:(9, 63)
+
+
+Frame 77 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 60)
+Object 2:(6, 50)
+Object 1:(9, 63)
+
+
+Frame 78 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(15, 60)
+Object 2:(6, 51)
+Object 1:(9, 64)
+
+
+Frame 79 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 61)
+Object 2:(6, 52)
+Object 1:(9, 64)
+
+
+Frame 80 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 53)
+Object 1:(9, 64)
+
+
+Frame 81 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 54)
+Object 1:(8, 65)
+
+
+Frame 82 : 
+-------- 
+Object 3:(-1, 70)
+Object 0:(15, 63)
+Object 2:(6, 55)
+Object 1:(8, 65)
+
+
+Frame 83 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(15, 64)
+Object 2:(7, 55)
+Object 1:(8, 66)
+
+
+Frame 84 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 64)
+Object 2:(7, 56)
+Object 1:(7, 66)
+
+
+Frame 85 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 86 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 87 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 66)
+Object 2:(7, 58)
+Object 1:(7, 68)
+
+
+Frame 88 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 58)
+Object 1:(7, 69)
+
+
+Frame 89 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 59)
+Object 1:(6, 70)
+
+
+Frame 90 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(7, 71)
+
+
+Frame 91 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(6, 72)
+
+
+Frame 92 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 72)
+
+
+Frame 93 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 73)
+
+
+Frame 94 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 74)
+
+
+Frame 95 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 75)
+
+
+Frame 96 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 71)
+Object 2:(8, 61)
+Object 1:(6, 76)
+
+
+Frame 97 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 76)
+
+
+Frame 98 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 77)
+
+
+Frame 99 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 73)
+Object 2:(8, 62)
+Object 1:(5, 78)
+
+
+Frame 100 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 73)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 101 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 102 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 80)
+
+
+Frame 103 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 75)
+Object 2:(8, 64)
+Object 1:(5, 81)
+
+
+Frame 104 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 75)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 105 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 106 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 83)
+
+
+Frame 107 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(5, 84)
+
+
+Frame 108 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(4, 84)
+
+
+Frame 109 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 78)
+Object 2:(9, 65)
+Object 1:(4, 85)
+
+
+Frame 110 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(9, 78)
+Object 2:(9, 64)
+Object 1:(4, 86)
+
+
+Frame 111 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 79)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 112 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 113 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 114 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 115 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(9, 64)
+Object 1:(4, 89)
+
+
+Frame 116 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(10, 64)
+Object 1:(4, 90)
+
+
+Frame 117 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 82)
+Object 2:(10, 64)
+Object 1:(3, 90)
+
+
+Frame 118 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 82)
+Object 2:(10, 64)
+Object 1:(3, 91)
+
+
+Frame 119 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(10, 64)
+Object 1:(3, 92)
+
+
+Frame 120 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 121 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 122 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 123 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 124 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 95)
+
+
+Frame 125 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(11, 64)
+Object 1:(2, 96)
+
+
+Frame 126 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(12, 64)
+Object 1:(2, 96)
+
+
+Frame 127 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 87)
+Object 2:(12, 63)
+Object 1:(2, 97)
+
+
+
+A collision is defined as the phenomenon where the difference between both the X and Y coordinates of both objects is less than 12 units.Based on the given data, answer the questions posed by the user.
+
+
+
+Question : Are there any stationary cylinders when the video ends?
+Question Type : descriptive
+Answer : no
+GPT Answer : <api call here>
+
+
+
+System Prompt: Given below are the properties of certain objects in a JSON format. The properties include the color, shape, and material of the objects.
+
+[{'object_id': 0, 'color': 'brown', 'material': 'rubber', 'shape': 'sphere'}, {'object_id': 1, 'color': 'gray', 'material': 'metal', 'shape': 'sphere'}, {'object_id': 2, 'color': 'cyan', 'material': 'rubber', 'shape': 'cube'}, {'object_id': 3, 'color': 'blue', 'material': 'metal', 'shape': 'cylinder'}]
+
+The objects defined above are moving on an XY Cartesian plane and their individual X and Y coordinates have been recorded for every frame. These are provided below.
+
+
+Frame 0 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 1 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 2 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 3 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 4 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 5 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 6 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 7 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 8 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 9 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 10 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 11 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 12 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 13 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 14 : 
+-------- 
+Object 2:(-1, -10)
+Object 1:(17, 51)
+
+
+Frame 15 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 16 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 17 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 18 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 19 : 
+-------- 
+Object 2:(-1, -7)
+Object 1:(17, 51)
+
+
+Frame 20 : 
+-------- 
+Object 2:(0, -7)
+Object 1:(17, 51)
+
+
+Frame 21 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 22 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 23 : 
+-------- 
+Object 2:(0, -4)
+Object 1:(17, 51)
+
+
+Frame 24 : 
+-------- 
+Object 0:(47, -10)
+Object 2:(0, -3)
+Object 1:(17, 51)
+
+
+Frame 25 : 
+-------- 
+Object 0:(46, -9)
+Object 2:(0, -2)
+Object 1:(17, 51)
+
+
+Frame 26 : 
+-------- 
+Object 0:(45, -8)
+Object 2:(0, -1)
+Object 1:(17, 51)
+
+
+Frame 27 : 
+-------- 
+Object 0:(43, -6)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 28 : 
+-------- 
+Object 0:(42, -5)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 29 : 
+-------- 
+Object 0:(41, -3)
+Object 2:(0, 1)
+Object 1:(17, 51)
+
+
+Frame 30 : 
+-------- 
+Object 0:(40, -1)
+Object 2:(0, 2)
+Object 1:(17, 51)
+
+
+Frame 31 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(39, 1)
+Object 2:(0, 3)
+Object 1:(17, 51)
+
+
+Frame 32 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(38, 3)
+Object 2:(0, 4)
+Object 1:(17, 51)
+
+
+Frame 33 : 
+-------- 
+Object 3:(-10, 75)
+Object 0:(37, 5)
+Object 2:(0, 5)
+Object 1:(17, 51)
+
+
+Frame 34 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(36, 8)
+Object 2:(0, 6)
+Object 1:(17, 51)
+
+
+Frame 35 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(35, 10)
+Object 2:(1, 7)
+Object 1:(17, 51)
+
+
+Frame 36 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 12)
+Object 2:(1, 9)
+Object 1:(17, 51)
+
+
+Frame 37 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 14)
+Object 2:(1, 10)
+Object 1:(17, 51)
+
+
+Frame 38 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(33, 16)
+Object 2:(1, 11)
+Object 1:(17, 51)
+
+
+Frame 39 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(32, 18)
+Object 2:(1, 12)
+Object 1:(17, 51)
+
+
+Frame 40 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(31, 20)
+Object 2:(1, 13)
+Object 1:(17, 51)
+
+
+Frame 41 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(30, 22)
+Object 2:(2, 14)
+Object 1:(17, 51)
+
+
+Frame 42 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 24)
+Object 2:(2, 15)
+Object 1:(17, 51)
+
+
+Frame 43 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 26)
+Object 2:(2, 16)
+Object 1:(17, 51)
+
+
+Frame 44 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(28, 27)
+Object 2:(2, 17)
+Object 1:(17, 51)
+
+
+Frame 45 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(27, 29)
+Object 2:(2, 18)
+Object 1:(17, 51)
+
+
+Frame 46 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(26, 31)
+Object 2:(2, 19)
+Object 1:(17, 51)
+
+
+Frame 47 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(26, 32)
+Object 2:(2, 20)
+Object 1:(17, 51)
+
+
+Frame 48 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(25, 34)
+Object 2:(2, 21)
+Object 1:(17, 51)
+
+
+Frame 49 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 36)
+Object 2:(3, 22)
+Object 1:(17, 51)
+
+
+Frame 50 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 37)
+Object 2:(3, 23)
+Object 1:(17, 51)
+
+
+Frame 51 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(23, 39)
+Object 2:(3, 24)
+Object 1:(17, 51)
+
+
+Frame 52 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 40)
+Object 2:(3, 25)
+Object 1:(17, 51)
+
+
+Frame 53 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 42)
+Object 2:(3, 26)
+Object 1:(17, 51)
+
+
+Frame 54 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 43)
+Object 2:(3, 28)
+Object 1:(17, 52)
+
+
+Frame 55 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 44)
+Object 2:(3, 28)
+Object 1:(16, 52)
+
+
+Frame 56 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 45)
+Object 2:(4, 30)
+Object 1:(16, 53)
+
+
+Frame 57 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 46)
+Object 2:(4, 31)
+Object 1:(16, 53)
+
+
+Frame 58 : 
+-------- 
+Object 3:(-7, 72)
+Object 0:(20, 47)
+Object 2:(4, 32)
+Object 1:(15, 54)
+
+
+Frame 59 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(20, 47)
+Object 2:(4, 33)
+Object 1:(15, 54)
+
+
+Frame 60 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 48)
+Object 2:(4, 34)
+Object 1:(14, 55)
+
+
+Frame 61 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 49)
+Object 2:(4, 35)
+Object 1:(14, 56)
+
+
+Frame 62 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 36)
+Object 1:(14, 56)
+
+
+Frame 63 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 37)
+Object 1:(13, 57)
+
+
+Frame 64 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 51)
+Object 2:(5, 38)
+Object 1:(13, 57)
+
+
+Frame 65 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 39)
+Object 1:(13, 58)
+
+
+Frame 66 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 40)
+Object 1:(13, 58)
+
+
+Frame 67 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 53)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 68 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 54)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 69 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(17, 55)
+Object 2:(5, 42)
+Object 1:(11, 60)
+
+
+Frame 70 : 
+-------- 
+Object 3:(-4, 71)
+Object 0:(17, 55)
+Object 2:(5, 43)
+Object 1:(11, 60)
+
+
+Frame 71 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 56)
+Object 2:(5, 44)
+Object 1:(11, 61)
+
+
+Frame 72 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(5, 45)
+Object 1:(11, 61)
+
+
+Frame 73 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(6, 46)
+Object 1:(10, 61)
+
+
+Frame 74 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(16, 58)
+Object 2:(6, 47)
+Object 1:(10, 62)
+
+
+Frame 75 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 58)
+Object 2:(6, 48)
+Object 1:(10, 62)
+
+
+Frame 76 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 59)
+Object 2:(6, 49)
+Object 1:(9, 63)
+
+
+Frame 77 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 60)
+Object 2:(6, 50)
+Object 1:(9, 63)
+
+
+Frame 78 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(15, 60)
+Object 2:(6, 51)
+Object 1:(9, 64)
+
+
+Frame 79 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 61)
+Object 2:(6, 52)
+Object 1:(9, 64)
+
+
+Frame 80 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 53)
+Object 1:(9, 64)
+
+
+Frame 81 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 54)
+Object 1:(8, 65)
+
+
+Frame 82 : 
+-------- 
+Object 3:(-1, 70)
+Object 0:(15, 63)
+Object 2:(6, 55)
+Object 1:(8, 65)
+
+
+Frame 83 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(15, 64)
+Object 2:(7, 55)
+Object 1:(8, 66)
+
+
+Frame 84 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 64)
+Object 2:(7, 56)
+Object 1:(7, 66)
+
+
+Frame 85 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 86 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 87 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 66)
+Object 2:(7, 58)
+Object 1:(7, 68)
+
+
+Frame 88 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 58)
+Object 1:(7, 69)
+
+
+Frame 89 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 59)
+Object 1:(6, 70)
+
+
+Frame 90 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(7, 71)
+
+
+Frame 91 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(6, 72)
+
+
+Frame 92 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 72)
+
+
+Frame 93 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 73)
+
+
+Frame 94 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 74)
+
+
+Frame 95 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 75)
+
+
+Frame 96 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 71)
+Object 2:(8, 61)
+Object 1:(6, 76)
+
+
+Frame 97 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 76)
+
+
+Frame 98 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 77)
+
+
+Frame 99 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 73)
+Object 2:(8, 62)
+Object 1:(5, 78)
+
+
+Frame 100 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 73)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 101 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 102 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 80)
+
+
+Frame 103 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 75)
+Object 2:(8, 64)
+Object 1:(5, 81)
+
+
+Frame 104 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 75)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 105 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 106 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 83)
+
+
+Frame 107 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(5, 84)
+
+
+Frame 108 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(4, 84)
+
+
+Frame 109 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 78)
+Object 2:(9, 65)
+Object 1:(4, 85)
+
+
+Frame 110 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(9, 78)
+Object 2:(9, 64)
+Object 1:(4, 86)
+
+
+Frame 111 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 79)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 112 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 113 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 114 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 115 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(9, 64)
+Object 1:(4, 89)
+
+
+Frame 116 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(10, 64)
+Object 1:(4, 90)
+
+
+Frame 117 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 82)
+Object 2:(10, 64)
+Object 1:(3, 90)
+
+
+Frame 118 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 82)
+Object 2:(10, 64)
+Object 1:(3, 91)
+
+
+Frame 119 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(10, 64)
+Object 1:(3, 92)
+
+
+Frame 120 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 121 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 122 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 123 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 124 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 95)
+
+
+Frame 125 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(11, 64)
+Object 1:(2, 96)
+
+
+Frame 126 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(12, 64)
+Object 1:(2, 96)
+
+
+Frame 127 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 87)
+Object 2:(12, 63)
+Object 1:(2, 97)
+
+
+
+A collision is defined as the phenomenon where the difference between both the X and Y coordinates of both objects is less than 12 units.Based on the given data, answer the questions posed by the user.
+
+
+
+Question : How many objects are stationary when the cylinder enters the scene?
+Question Type : descriptive
+Answer : 1
+GPT Answer : <api call here>
+
+
+
+System Prompt: Given below are the properties of certain objects in a JSON format. The properties include the color, shape, and material of the objects.
+
+[{'object_id': 0, 'color': 'brown', 'material': 'rubber', 'shape': 'sphere'}, {'object_id': 1, 'color': 'gray', 'material': 'metal', 'shape': 'sphere'}, {'object_id': 2, 'color': 'cyan', 'material': 'rubber', 'shape': 'cube'}, {'object_id': 3, 'color': 'blue', 'material': 'metal', 'shape': 'cylinder'}]
+
+The objects defined above are moving on an XY Cartesian plane and their individual X and Y coordinates have been recorded for every frame. These are provided below.
+
+
+Frame 0 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 1 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 2 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 3 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 4 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 5 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 6 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 7 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 8 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 9 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 10 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 11 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 12 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 13 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 14 : 
+-------- 
+Object 2:(-1, -10)
+Object 1:(17, 51)
+
+
+Frame 15 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 16 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 17 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 18 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 19 : 
+-------- 
+Object 2:(-1, -7)
+Object 1:(17, 51)
+
+
+Frame 20 : 
+-------- 
+Object 2:(0, -7)
+Object 1:(17, 51)
+
+
+Frame 21 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 22 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 23 : 
+-------- 
+Object 2:(0, -4)
+Object 1:(17, 51)
+
+
+Frame 24 : 
+-------- 
+Object 0:(47, -10)
+Object 2:(0, -3)
+Object 1:(17, 51)
+
+
+Frame 25 : 
+-------- 
+Object 0:(46, -9)
+Object 2:(0, -2)
+Object 1:(17, 51)
+
+
+Frame 26 : 
+-------- 
+Object 0:(45, -8)
+Object 2:(0, -1)
+Object 1:(17, 51)
+
+
+Frame 27 : 
+-------- 
+Object 0:(43, -6)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 28 : 
+-------- 
+Object 0:(42, -5)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 29 : 
+-------- 
+Object 0:(41, -3)
+Object 2:(0, 1)
+Object 1:(17, 51)
+
+
+Frame 30 : 
+-------- 
+Object 0:(40, -1)
+Object 2:(0, 2)
+Object 1:(17, 51)
+
+
+Frame 31 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(39, 1)
+Object 2:(0, 3)
+Object 1:(17, 51)
+
+
+Frame 32 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(38, 3)
+Object 2:(0, 4)
+Object 1:(17, 51)
+
+
+Frame 33 : 
+-------- 
+Object 3:(-10, 75)
+Object 0:(37, 5)
+Object 2:(0, 5)
+Object 1:(17, 51)
+
+
+Frame 34 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(36, 8)
+Object 2:(0, 6)
+Object 1:(17, 51)
+
+
+Frame 35 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(35, 10)
+Object 2:(1, 7)
+Object 1:(17, 51)
+
+
+Frame 36 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 12)
+Object 2:(1, 9)
+Object 1:(17, 51)
+
+
+Frame 37 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 14)
+Object 2:(1, 10)
+Object 1:(17, 51)
+
+
+Frame 38 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(33, 16)
+Object 2:(1, 11)
+Object 1:(17, 51)
+
+
+Frame 39 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(32, 18)
+Object 2:(1, 12)
+Object 1:(17, 51)
+
+
+Frame 40 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(31, 20)
+Object 2:(1, 13)
+Object 1:(17, 51)
+
+
+Frame 41 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(30, 22)
+Object 2:(2, 14)
+Object 1:(17, 51)
+
+
+Frame 42 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 24)
+Object 2:(2, 15)
+Object 1:(17, 51)
+
+
+Frame 43 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 26)
+Object 2:(2, 16)
+Object 1:(17, 51)
+
+
+Frame 44 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(28, 27)
+Object 2:(2, 17)
+Object 1:(17, 51)
+
+
+Frame 45 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(27, 29)
+Object 2:(2, 18)
+Object 1:(17, 51)
+
+
+Frame 46 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(26, 31)
+Object 2:(2, 19)
+Object 1:(17, 51)
+
+
+Frame 47 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(26, 32)
+Object 2:(2, 20)
+Object 1:(17, 51)
+
+
+Frame 48 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(25, 34)
+Object 2:(2, 21)
+Object 1:(17, 51)
+
+
+Frame 49 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 36)
+Object 2:(3, 22)
+Object 1:(17, 51)
+
+
+Frame 50 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 37)
+Object 2:(3, 23)
+Object 1:(17, 51)
+
+
+Frame 51 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(23, 39)
+Object 2:(3, 24)
+Object 1:(17, 51)
+
+
+Frame 52 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 40)
+Object 2:(3, 25)
+Object 1:(17, 51)
+
+
+Frame 53 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 42)
+Object 2:(3, 26)
+Object 1:(17, 51)
+
+
+Frame 54 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 43)
+Object 2:(3, 28)
+Object 1:(17, 52)
+
+
+Frame 55 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 44)
+Object 2:(3, 28)
+Object 1:(16, 52)
+
+
+Frame 56 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 45)
+Object 2:(4, 30)
+Object 1:(16, 53)
+
+
+Frame 57 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 46)
+Object 2:(4, 31)
+Object 1:(16, 53)
+
+
+Frame 58 : 
+-------- 
+Object 3:(-7, 72)
+Object 0:(20, 47)
+Object 2:(4, 32)
+Object 1:(15, 54)
+
+
+Frame 59 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(20, 47)
+Object 2:(4, 33)
+Object 1:(15, 54)
+
+
+Frame 60 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 48)
+Object 2:(4, 34)
+Object 1:(14, 55)
+
+
+Frame 61 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 49)
+Object 2:(4, 35)
+Object 1:(14, 56)
+
+
+Frame 62 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 36)
+Object 1:(14, 56)
+
+
+Frame 63 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 37)
+Object 1:(13, 57)
+
+
+Frame 64 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 51)
+Object 2:(5, 38)
+Object 1:(13, 57)
+
+
+Frame 65 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 39)
+Object 1:(13, 58)
+
+
+Frame 66 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 40)
+Object 1:(13, 58)
+
+
+Frame 67 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 53)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 68 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 54)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 69 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(17, 55)
+Object 2:(5, 42)
+Object 1:(11, 60)
+
+
+Frame 70 : 
+-------- 
+Object 3:(-4, 71)
+Object 0:(17, 55)
+Object 2:(5, 43)
+Object 1:(11, 60)
+
+
+Frame 71 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 56)
+Object 2:(5, 44)
+Object 1:(11, 61)
+
+
+Frame 72 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(5, 45)
+Object 1:(11, 61)
+
+
+Frame 73 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(6, 46)
+Object 1:(10, 61)
+
+
+Frame 74 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(16, 58)
+Object 2:(6, 47)
+Object 1:(10, 62)
+
+
+Frame 75 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 58)
+Object 2:(6, 48)
+Object 1:(10, 62)
+
+
+Frame 76 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 59)
+Object 2:(6, 49)
+Object 1:(9, 63)
+
+
+Frame 77 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 60)
+Object 2:(6, 50)
+Object 1:(9, 63)
+
+
+Frame 78 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(15, 60)
+Object 2:(6, 51)
+Object 1:(9, 64)
+
+
+Frame 79 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 61)
+Object 2:(6, 52)
+Object 1:(9, 64)
+
+
+Frame 80 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 53)
+Object 1:(9, 64)
+
+
+Frame 81 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 54)
+Object 1:(8, 65)
+
+
+Frame 82 : 
+-------- 
+Object 3:(-1, 70)
+Object 0:(15, 63)
+Object 2:(6, 55)
+Object 1:(8, 65)
+
+
+Frame 83 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(15, 64)
+Object 2:(7, 55)
+Object 1:(8, 66)
+
+
+Frame 84 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 64)
+Object 2:(7, 56)
+Object 1:(7, 66)
+
+
+Frame 85 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 86 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 87 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 66)
+Object 2:(7, 58)
+Object 1:(7, 68)
+
+
+Frame 88 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 58)
+Object 1:(7, 69)
+
+
+Frame 89 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 59)
+Object 1:(6, 70)
+
+
+Frame 90 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(7, 71)
+
+
+Frame 91 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(6, 72)
+
+
+Frame 92 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 72)
+
+
+Frame 93 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 73)
+
+
+Frame 94 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 74)
+
+
+Frame 95 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 75)
+
+
+Frame 96 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 71)
+Object 2:(8, 61)
+Object 1:(6, 76)
+
+
+Frame 97 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 76)
+
+
+Frame 98 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 77)
+
+
+Frame 99 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 73)
+Object 2:(8, 62)
+Object 1:(5, 78)
+
+
+Frame 100 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 73)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 101 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 102 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 80)
+
+
+Frame 103 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 75)
+Object 2:(8, 64)
+Object 1:(5, 81)
+
+
+Frame 104 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 75)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 105 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 106 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 83)
+
+
+Frame 107 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(5, 84)
+
+
+Frame 108 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(4, 84)
+
+
+Frame 109 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 78)
+Object 2:(9, 65)
+Object 1:(4, 85)
+
+
+Frame 110 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(9, 78)
+Object 2:(9, 64)
+Object 1:(4, 86)
+
+
+Frame 111 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 79)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 112 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 113 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 114 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 115 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(9, 64)
+Object 1:(4, 89)
+
+
+Frame 116 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(10, 64)
+Object 1:(4, 90)
+
+
+Frame 117 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 82)
+Object 2:(10, 64)
+Object 1:(3, 90)
+
+
+Frame 118 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 82)
+Object 2:(10, 64)
+Object 1:(3, 91)
+
+
+Frame 119 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(10, 64)
+Object 1:(3, 92)
+
+
+Frame 120 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 121 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 122 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 123 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 124 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 95)
+
+
+Frame 125 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(11, 64)
+Object 1:(2, 96)
+
+
+Frame 126 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(12, 64)
+Object 1:(2, 96)
+
+
+Frame 127 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 87)
+Object 2:(12, 63)
+Object 1:(2, 97)
+
+
+
+A collision is defined as the phenomenon where the difference between both the X and Y coordinates of both objects is less than 12 units.Based on the given data, answer the questions posed by the user.
+
+
+
+Question : How many objects are moving when the video ends?
+Question Type : descriptive
+Answer : 4
+GPT Answer : <api call here>
+
+
+
+System Prompt: Given below are the properties of certain objects in a JSON format. The properties include the color, shape, and material of the objects.
+
+[{'object_id': 0, 'color': 'brown', 'material': 'rubber', 'shape': 'sphere'}, {'object_id': 1, 'color': 'gray', 'material': 'metal', 'shape': 'sphere'}, {'object_id': 2, 'color': 'cyan', 'material': 'rubber', 'shape': 'cube'}, {'object_id': 3, 'color': 'blue', 'material': 'metal', 'shape': 'cylinder'}]
+
+The objects defined above are moving on an XY Cartesian plane and their individual X and Y coordinates have been recorded for every frame. These are provided below.
+
+
+Frame 0 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 1 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 2 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 3 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 4 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 5 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 6 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 7 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 8 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 9 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 10 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 11 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 12 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 13 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 14 : 
+-------- 
+Object 2:(-1, -10)
+Object 1:(17, 51)
+
+
+Frame 15 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 16 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 17 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 18 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 19 : 
+-------- 
+Object 2:(-1, -7)
+Object 1:(17, 51)
+
+
+Frame 20 : 
+-------- 
+Object 2:(0, -7)
+Object 1:(17, 51)
+
+
+Frame 21 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 22 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 23 : 
+-------- 
+Object 2:(0, -4)
+Object 1:(17, 51)
+
+
+Frame 24 : 
+-------- 
+Object 0:(47, -10)
+Object 2:(0, -3)
+Object 1:(17, 51)
+
+
+Frame 25 : 
+-------- 
+Object 0:(46, -9)
+Object 2:(0, -2)
+Object 1:(17, 51)
+
+
+Frame 26 : 
+-------- 
+Object 0:(45, -8)
+Object 2:(0, -1)
+Object 1:(17, 51)
+
+
+Frame 27 : 
+-------- 
+Object 0:(43, -6)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 28 : 
+-------- 
+Object 0:(42, -5)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 29 : 
+-------- 
+Object 0:(41, -3)
+Object 2:(0, 1)
+Object 1:(17, 51)
+
+
+Frame 30 : 
+-------- 
+Object 0:(40, -1)
+Object 2:(0, 2)
+Object 1:(17, 51)
+
+
+Frame 31 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(39, 1)
+Object 2:(0, 3)
+Object 1:(17, 51)
+
+
+Frame 32 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(38, 3)
+Object 2:(0, 4)
+Object 1:(17, 51)
+
+
+Frame 33 : 
+-------- 
+Object 3:(-10, 75)
+Object 0:(37, 5)
+Object 2:(0, 5)
+Object 1:(17, 51)
+
+
+Frame 34 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(36, 8)
+Object 2:(0, 6)
+Object 1:(17, 51)
+
+
+Frame 35 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(35, 10)
+Object 2:(1, 7)
+Object 1:(17, 51)
+
+
+Frame 36 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 12)
+Object 2:(1, 9)
+Object 1:(17, 51)
+
+
+Frame 37 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 14)
+Object 2:(1, 10)
+Object 1:(17, 51)
+
+
+Frame 38 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(33, 16)
+Object 2:(1, 11)
+Object 1:(17, 51)
+
+
+Frame 39 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(32, 18)
+Object 2:(1, 12)
+Object 1:(17, 51)
+
+
+Frame 40 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(31, 20)
+Object 2:(1, 13)
+Object 1:(17, 51)
+
+
+Frame 41 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(30, 22)
+Object 2:(2, 14)
+Object 1:(17, 51)
+
+
+Frame 42 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 24)
+Object 2:(2, 15)
+Object 1:(17, 51)
+
+
+Frame 43 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 26)
+Object 2:(2, 16)
+Object 1:(17, 51)
+
+
+Frame 44 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(28, 27)
+Object 2:(2, 17)
+Object 1:(17, 51)
+
+
+Frame 45 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(27, 29)
+Object 2:(2, 18)
+Object 1:(17, 51)
+
+
+Frame 46 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(26, 31)
+Object 2:(2, 19)
+Object 1:(17, 51)
+
+
+Frame 47 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(26, 32)
+Object 2:(2, 20)
+Object 1:(17, 51)
+
+
+Frame 48 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(25, 34)
+Object 2:(2, 21)
+Object 1:(17, 51)
+
+
+Frame 49 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 36)
+Object 2:(3, 22)
+Object 1:(17, 51)
+
+
+Frame 50 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 37)
+Object 2:(3, 23)
+Object 1:(17, 51)
+
+
+Frame 51 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(23, 39)
+Object 2:(3, 24)
+Object 1:(17, 51)
+
+
+Frame 52 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 40)
+Object 2:(3, 25)
+Object 1:(17, 51)
+
+
+Frame 53 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 42)
+Object 2:(3, 26)
+Object 1:(17, 51)
+
+
+Frame 54 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 43)
+Object 2:(3, 28)
+Object 1:(17, 52)
+
+
+Frame 55 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 44)
+Object 2:(3, 28)
+Object 1:(16, 52)
+
+
+Frame 56 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 45)
+Object 2:(4, 30)
+Object 1:(16, 53)
+
+
+Frame 57 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 46)
+Object 2:(4, 31)
+Object 1:(16, 53)
+
+
+Frame 58 : 
+-------- 
+Object 3:(-7, 72)
+Object 0:(20, 47)
+Object 2:(4, 32)
+Object 1:(15, 54)
+
+
+Frame 59 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(20, 47)
+Object 2:(4, 33)
+Object 1:(15, 54)
+
+
+Frame 60 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 48)
+Object 2:(4, 34)
+Object 1:(14, 55)
+
+
+Frame 61 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 49)
+Object 2:(4, 35)
+Object 1:(14, 56)
+
+
+Frame 62 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 36)
+Object 1:(14, 56)
+
+
+Frame 63 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 37)
+Object 1:(13, 57)
+
+
+Frame 64 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 51)
+Object 2:(5, 38)
+Object 1:(13, 57)
+
+
+Frame 65 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 39)
+Object 1:(13, 58)
+
+
+Frame 66 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 40)
+Object 1:(13, 58)
+
+
+Frame 67 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 53)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 68 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 54)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 69 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(17, 55)
+Object 2:(5, 42)
+Object 1:(11, 60)
+
+
+Frame 70 : 
+-------- 
+Object 3:(-4, 71)
+Object 0:(17, 55)
+Object 2:(5, 43)
+Object 1:(11, 60)
+
+
+Frame 71 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 56)
+Object 2:(5, 44)
+Object 1:(11, 61)
+
+
+Frame 72 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(5, 45)
+Object 1:(11, 61)
+
+
+Frame 73 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(6, 46)
+Object 1:(10, 61)
+
+
+Frame 74 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(16, 58)
+Object 2:(6, 47)
+Object 1:(10, 62)
+
+
+Frame 75 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 58)
+Object 2:(6, 48)
+Object 1:(10, 62)
+
+
+Frame 76 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 59)
+Object 2:(6, 49)
+Object 1:(9, 63)
+
+
+Frame 77 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 60)
+Object 2:(6, 50)
+Object 1:(9, 63)
+
+
+Frame 78 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(15, 60)
+Object 2:(6, 51)
+Object 1:(9, 64)
+
+
+Frame 79 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 61)
+Object 2:(6, 52)
+Object 1:(9, 64)
+
+
+Frame 80 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 53)
+Object 1:(9, 64)
+
+
+Frame 81 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 54)
+Object 1:(8, 65)
+
+
+Frame 82 : 
+-------- 
+Object 3:(-1, 70)
+Object 0:(15, 63)
+Object 2:(6, 55)
+Object 1:(8, 65)
+
+
+Frame 83 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(15, 64)
+Object 2:(7, 55)
+Object 1:(8, 66)
+
+
+Frame 84 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 64)
+Object 2:(7, 56)
+Object 1:(7, 66)
+
+
+Frame 85 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 86 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 87 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 66)
+Object 2:(7, 58)
+Object 1:(7, 68)
+
+
+Frame 88 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 58)
+Object 1:(7, 69)
+
+
+Frame 89 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 59)
+Object 1:(6, 70)
+
+
+Frame 90 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(7, 71)
+
+
+Frame 91 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(6, 72)
+
+
+Frame 92 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 72)
+
+
+Frame 93 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 73)
+
+
+Frame 94 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 74)
+
+
+Frame 95 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 75)
+
+
+Frame 96 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 71)
+Object 2:(8, 61)
+Object 1:(6, 76)
+
+
+Frame 97 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 76)
+
+
+Frame 98 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 77)
+
+
+Frame 99 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 73)
+Object 2:(8, 62)
+Object 1:(5, 78)
+
+
+Frame 100 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 73)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 101 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 102 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 80)
+
+
+Frame 103 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 75)
+Object 2:(8, 64)
+Object 1:(5, 81)
+
+
+Frame 104 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 75)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 105 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 106 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 83)
+
+
+Frame 107 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(5, 84)
+
+
+Frame 108 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(4, 84)
+
+
+Frame 109 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 78)
+Object 2:(9, 65)
+Object 1:(4, 85)
+
+
+Frame 110 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(9, 78)
+Object 2:(9, 64)
+Object 1:(4, 86)
+
+
+Frame 111 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 79)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 112 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 113 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 114 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 115 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(9, 64)
+Object 1:(4, 89)
+
+
+Frame 116 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(10, 64)
+Object 1:(4, 90)
+
+
+Frame 117 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 82)
+Object 2:(10, 64)
+Object 1:(3, 90)
+
+
+Frame 118 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 82)
+Object 2:(10, 64)
+Object 1:(3, 91)
+
+
+Frame 119 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(10, 64)
+Object 1:(3, 92)
+
+
+Frame 120 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 121 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 122 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 123 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 124 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 95)
+
+
+Frame 125 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(11, 64)
+Object 1:(2, 96)
+
+
+Frame 126 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(12, 64)
+Object 1:(2, 96)
+
+
+Frame 127 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 87)
+Object 2:(12, 63)
+Object 1:(2, 97)
+
+
+
+A collision is defined as the phenomenon where the difference between both the X and Y coordinates of both objects is less than 12 units.Based on the given data, answer the questions posed by the user.
+
+
+
+Question : What is the color of the last object that enters the scene?
+Question Type : descriptive
+Answer : brown
+GPT Answer : <api call here>
+
+
+
+System Prompt: Given below are the properties of certain objects in a JSON format. The properties include the color, shape, and material of the objects.
+
+[{'object_id': 0, 'color': 'brown', 'material': 'rubber', 'shape': 'sphere'}, {'object_id': 1, 'color': 'gray', 'material': 'metal', 'shape': 'sphere'}, {'object_id': 2, 'color': 'cyan', 'material': 'rubber', 'shape': 'cube'}, {'object_id': 3, 'color': 'blue', 'material': 'metal', 'shape': 'cylinder'}]
+
+The objects defined above are moving on an XY Cartesian plane and their individual X and Y coordinates have been recorded for every frame. These are provided below.
+
+
+Frame 0 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 1 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 2 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 3 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 4 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 5 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 6 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 7 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 8 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 9 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 10 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 11 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 12 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 13 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 14 : 
+-------- 
+Object 2:(-1, -10)
+Object 1:(17, 51)
+
+
+Frame 15 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 16 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 17 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 18 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 19 : 
+-------- 
+Object 2:(-1, -7)
+Object 1:(17, 51)
+
+
+Frame 20 : 
+-------- 
+Object 2:(0, -7)
+Object 1:(17, 51)
+
+
+Frame 21 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 22 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 23 : 
+-------- 
+Object 2:(0, -4)
+Object 1:(17, 51)
+
+
+Frame 24 : 
+-------- 
+Object 0:(47, -10)
+Object 2:(0, -3)
+Object 1:(17, 51)
+
+
+Frame 25 : 
+-------- 
+Object 0:(46, -9)
+Object 2:(0, -2)
+Object 1:(17, 51)
+
+
+Frame 26 : 
+-------- 
+Object 0:(45, -8)
+Object 2:(0, -1)
+Object 1:(17, 51)
+
+
+Frame 27 : 
+-------- 
+Object 0:(43, -6)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 28 : 
+-------- 
+Object 0:(42, -5)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 29 : 
+-------- 
+Object 0:(41, -3)
+Object 2:(0, 1)
+Object 1:(17, 51)
+
+
+Frame 30 : 
+-------- 
+Object 0:(40, -1)
+Object 2:(0, 2)
+Object 1:(17, 51)
+
+
+Frame 31 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(39, 1)
+Object 2:(0, 3)
+Object 1:(17, 51)
+
+
+Frame 32 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(38, 3)
+Object 2:(0, 4)
+Object 1:(17, 51)
+
+
+Frame 33 : 
+-------- 
+Object 3:(-10, 75)
+Object 0:(37, 5)
+Object 2:(0, 5)
+Object 1:(17, 51)
+
+
+Frame 34 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(36, 8)
+Object 2:(0, 6)
+Object 1:(17, 51)
+
+
+Frame 35 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(35, 10)
+Object 2:(1, 7)
+Object 1:(17, 51)
+
+
+Frame 36 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 12)
+Object 2:(1, 9)
+Object 1:(17, 51)
+
+
+Frame 37 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 14)
+Object 2:(1, 10)
+Object 1:(17, 51)
+
+
+Frame 38 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(33, 16)
+Object 2:(1, 11)
+Object 1:(17, 51)
+
+
+Frame 39 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(32, 18)
+Object 2:(1, 12)
+Object 1:(17, 51)
+
+
+Frame 40 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(31, 20)
+Object 2:(1, 13)
+Object 1:(17, 51)
+
+
+Frame 41 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(30, 22)
+Object 2:(2, 14)
+Object 1:(17, 51)
+
+
+Frame 42 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 24)
+Object 2:(2, 15)
+Object 1:(17, 51)
+
+
+Frame 43 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 26)
+Object 2:(2, 16)
+Object 1:(17, 51)
+
+
+Frame 44 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(28, 27)
+Object 2:(2, 17)
+Object 1:(17, 51)
+
+
+Frame 45 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(27, 29)
+Object 2:(2, 18)
+Object 1:(17, 51)
+
+
+Frame 46 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(26, 31)
+Object 2:(2, 19)
+Object 1:(17, 51)
+
+
+Frame 47 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(26, 32)
+Object 2:(2, 20)
+Object 1:(17, 51)
+
+
+Frame 48 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(25, 34)
+Object 2:(2, 21)
+Object 1:(17, 51)
+
+
+Frame 49 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 36)
+Object 2:(3, 22)
+Object 1:(17, 51)
+
+
+Frame 50 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 37)
+Object 2:(3, 23)
+Object 1:(17, 51)
+
+
+Frame 51 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(23, 39)
+Object 2:(3, 24)
+Object 1:(17, 51)
+
+
+Frame 52 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 40)
+Object 2:(3, 25)
+Object 1:(17, 51)
+
+
+Frame 53 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 42)
+Object 2:(3, 26)
+Object 1:(17, 51)
+
+
+Frame 54 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 43)
+Object 2:(3, 28)
+Object 1:(17, 52)
+
+
+Frame 55 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 44)
+Object 2:(3, 28)
+Object 1:(16, 52)
+
+
+Frame 56 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 45)
+Object 2:(4, 30)
+Object 1:(16, 53)
+
+
+Frame 57 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 46)
+Object 2:(4, 31)
+Object 1:(16, 53)
+
+
+Frame 58 : 
+-------- 
+Object 3:(-7, 72)
+Object 0:(20, 47)
+Object 2:(4, 32)
+Object 1:(15, 54)
+
+
+Frame 59 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(20, 47)
+Object 2:(4, 33)
+Object 1:(15, 54)
+
+
+Frame 60 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 48)
+Object 2:(4, 34)
+Object 1:(14, 55)
+
+
+Frame 61 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 49)
+Object 2:(4, 35)
+Object 1:(14, 56)
+
+
+Frame 62 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 36)
+Object 1:(14, 56)
+
+
+Frame 63 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 37)
+Object 1:(13, 57)
+
+
+Frame 64 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 51)
+Object 2:(5, 38)
+Object 1:(13, 57)
+
+
+Frame 65 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 39)
+Object 1:(13, 58)
+
+
+Frame 66 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 40)
+Object 1:(13, 58)
+
+
+Frame 67 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 53)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 68 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 54)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 69 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(17, 55)
+Object 2:(5, 42)
+Object 1:(11, 60)
+
+
+Frame 70 : 
+-------- 
+Object 3:(-4, 71)
+Object 0:(17, 55)
+Object 2:(5, 43)
+Object 1:(11, 60)
+
+
+Frame 71 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 56)
+Object 2:(5, 44)
+Object 1:(11, 61)
+
+
+Frame 72 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(5, 45)
+Object 1:(11, 61)
+
+
+Frame 73 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(6, 46)
+Object 1:(10, 61)
+
+
+Frame 74 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(16, 58)
+Object 2:(6, 47)
+Object 1:(10, 62)
+
+
+Frame 75 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 58)
+Object 2:(6, 48)
+Object 1:(10, 62)
+
+
+Frame 76 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 59)
+Object 2:(6, 49)
+Object 1:(9, 63)
+
+
+Frame 77 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 60)
+Object 2:(6, 50)
+Object 1:(9, 63)
+
+
+Frame 78 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(15, 60)
+Object 2:(6, 51)
+Object 1:(9, 64)
+
+
+Frame 79 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 61)
+Object 2:(6, 52)
+Object 1:(9, 64)
+
+
+Frame 80 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 53)
+Object 1:(9, 64)
+
+
+Frame 81 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 54)
+Object 1:(8, 65)
+
+
+Frame 82 : 
+-------- 
+Object 3:(-1, 70)
+Object 0:(15, 63)
+Object 2:(6, 55)
+Object 1:(8, 65)
+
+
+Frame 83 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(15, 64)
+Object 2:(7, 55)
+Object 1:(8, 66)
+
+
+Frame 84 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 64)
+Object 2:(7, 56)
+Object 1:(7, 66)
+
+
+Frame 85 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 86 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 87 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 66)
+Object 2:(7, 58)
+Object 1:(7, 68)
+
+
+Frame 88 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 58)
+Object 1:(7, 69)
+
+
+Frame 89 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 59)
+Object 1:(6, 70)
+
+
+Frame 90 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(7, 71)
+
+
+Frame 91 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(6, 72)
+
+
+Frame 92 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 72)
+
+
+Frame 93 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 73)
+
+
+Frame 94 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 74)
+
+
+Frame 95 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 75)
+
+
+Frame 96 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 71)
+Object 2:(8, 61)
+Object 1:(6, 76)
+
+
+Frame 97 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 76)
+
+
+Frame 98 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 77)
+
+
+Frame 99 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 73)
+Object 2:(8, 62)
+Object 1:(5, 78)
+
+
+Frame 100 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 73)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 101 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 102 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 80)
+
+
+Frame 103 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 75)
+Object 2:(8, 64)
+Object 1:(5, 81)
+
+
+Frame 104 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 75)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 105 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 106 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 83)
+
+
+Frame 107 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(5, 84)
+
+
+Frame 108 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(4, 84)
+
+
+Frame 109 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 78)
+Object 2:(9, 65)
+Object 1:(4, 85)
+
+
+Frame 110 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(9, 78)
+Object 2:(9, 64)
+Object 1:(4, 86)
+
+
+Frame 111 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 79)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 112 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 113 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 114 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 115 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(9, 64)
+Object 1:(4, 89)
+
+
+Frame 116 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(10, 64)
+Object 1:(4, 90)
+
+
+Frame 117 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 82)
+Object 2:(10, 64)
+Object 1:(3, 90)
+
+
+Frame 118 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 82)
+Object 2:(10, 64)
+Object 1:(3, 91)
+
+
+Frame 119 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(10, 64)
+Object 1:(3, 92)
+
+
+Frame 120 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 121 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 122 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 123 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 124 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 95)
+
+
+Frame 125 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(11, 64)
+Object 1:(2, 96)
+
+
+Frame 126 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(12, 64)
+Object 1:(2, 96)
+
+
+Frame 127 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 87)
+Object 2:(12, 63)
+Object 1:(2, 97)
+
+
+
+A collision is defined as the phenomenon where the difference between both the X and Y coordinates of both objects is less than 12 units.Based on the given data, answer the questions posed by the user.
+
+
+
+Question : What is the shape of the object to collide with the rubber sphere?
+Question Type : descriptive
+Answer : sphere
+GPT Answer : <api call here>
+
+
+
+System Prompt: Given below are the properties of certain objects in a JSON format. The properties include the color, shape, and material of the objects.
+
+[{'object_id': 0, 'color': 'brown', 'material': 'rubber', 'shape': 'sphere'}, {'object_id': 1, 'color': 'gray', 'material': 'metal', 'shape': 'sphere'}, {'object_id': 2, 'color': 'cyan', 'material': 'rubber', 'shape': 'cube'}, {'object_id': 3, 'color': 'blue', 'material': 'metal', 'shape': 'cylinder'}]
+
+The objects defined above are moving on an XY Cartesian plane and their individual X and Y coordinates have been recorded for every frame. These are provided below.
+
+
+Frame 0 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 1 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 2 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 3 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 4 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 5 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 6 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 7 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 8 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 9 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 10 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 11 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 12 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 13 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 14 : 
+-------- 
+Object 2:(-1, -10)
+Object 1:(17, 51)
+
+
+Frame 15 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 16 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 17 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 18 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 19 : 
+-------- 
+Object 2:(-1, -7)
+Object 1:(17, 51)
+
+
+Frame 20 : 
+-------- 
+Object 2:(0, -7)
+Object 1:(17, 51)
+
+
+Frame 21 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 22 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 23 : 
+-------- 
+Object 2:(0, -4)
+Object 1:(17, 51)
+
+
+Frame 24 : 
+-------- 
+Object 0:(47, -10)
+Object 2:(0, -3)
+Object 1:(17, 51)
+
+
+Frame 25 : 
+-------- 
+Object 0:(46, -9)
+Object 2:(0, -2)
+Object 1:(17, 51)
+
+
+Frame 26 : 
+-------- 
+Object 0:(45, -8)
+Object 2:(0, -1)
+Object 1:(17, 51)
+
+
+Frame 27 : 
+-------- 
+Object 0:(43, -6)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 28 : 
+-------- 
+Object 0:(42, -5)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 29 : 
+-------- 
+Object 0:(41, -3)
+Object 2:(0, 1)
+Object 1:(17, 51)
+
+
+Frame 30 : 
+-------- 
+Object 0:(40, -1)
+Object 2:(0, 2)
+Object 1:(17, 51)
+
+
+Frame 31 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(39, 1)
+Object 2:(0, 3)
+Object 1:(17, 51)
+
+
+Frame 32 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(38, 3)
+Object 2:(0, 4)
+Object 1:(17, 51)
+
+
+Frame 33 : 
+-------- 
+Object 3:(-10, 75)
+Object 0:(37, 5)
+Object 2:(0, 5)
+Object 1:(17, 51)
+
+
+Frame 34 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(36, 8)
+Object 2:(0, 6)
+Object 1:(17, 51)
+
+
+Frame 35 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(35, 10)
+Object 2:(1, 7)
+Object 1:(17, 51)
+
+
+Frame 36 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 12)
+Object 2:(1, 9)
+Object 1:(17, 51)
+
+
+Frame 37 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 14)
+Object 2:(1, 10)
+Object 1:(17, 51)
+
+
+Frame 38 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(33, 16)
+Object 2:(1, 11)
+Object 1:(17, 51)
+
+
+Frame 39 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(32, 18)
+Object 2:(1, 12)
+Object 1:(17, 51)
+
+
+Frame 40 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(31, 20)
+Object 2:(1, 13)
+Object 1:(17, 51)
+
+
+Frame 41 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(30, 22)
+Object 2:(2, 14)
+Object 1:(17, 51)
+
+
+Frame 42 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 24)
+Object 2:(2, 15)
+Object 1:(17, 51)
+
+
+Frame 43 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 26)
+Object 2:(2, 16)
+Object 1:(17, 51)
+
+
+Frame 44 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(28, 27)
+Object 2:(2, 17)
+Object 1:(17, 51)
+
+
+Frame 45 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(27, 29)
+Object 2:(2, 18)
+Object 1:(17, 51)
+
+
+Frame 46 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(26, 31)
+Object 2:(2, 19)
+Object 1:(17, 51)
+
+
+Frame 47 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(26, 32)
+Object 2:(2, 20)
+Object 1:(17, 51)
+
+
+Frame 48 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(25, 34)
+Object 2:(2, 21)
+Object 1:(17, 51)
+
+
+Frame 49 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 36)
+Object 2:(3, 22)
+Object 1:(17, 51)
+
+
+Frame 50 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 37)
+Object 2:(3, 23)
+Object 1:(17, 51)
+
+
+Frame 51 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(23, 39)
+Object 2:(3, 24)
+Object 1:(17, 51)
+
+
+Frame 52 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 40)
+Object 2:(3, 25)
+Object 1:(17, 51)
+
+
+Frame 53 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 42)
+Object 2:(3, 26)
+Object 1:(17, 51)
+
+
+Frame 54 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 43)
+Object 2:(3, 28)
+Object 1:(17, 52)
+
+
+Frame 55 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 44)
+Object 2:(3, 28)
+Object 1:(16, 52)
+
+
+Frame 56 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 45)
+Object 2:(4, 30)
+Object 1:(16, 53)
+
+
+Frame 57 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 46)
+Object 2:(4, 31)
+Object 1:(16, 53)
+
+
+Frame 58 : 
+-------- 
+Object 3:(-7, 72)
+Object 0:(20, 47)
+Object 2:(4, 32)
+Object 1:(15, 54)
+
+
+Frame 59 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(20, 47)
+Object 2:(4, 33)
+Object 1:(15, 54)
+
+
+Frame 60 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 48)
+Object 2:(4, 34)
+Object 1:(14, 55)
+
+
+Frame 61 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 49)
+Object 2:(4, 35)
+Object 1:(14, 56)
+
+
+Frame 62 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 36)
+Object 1:(14, 56)
+
+
+Frame 63 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 37)
+Object 1:(13, 57)
+
+
+Frame 64 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 51)
+Object 2:(5, 38)
+Object 1:(13, 57)
+
+
+Frame 65 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 39)
+Object 1:(13, 58)
+
+
+Frame 66 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 40)
+Object 1:(13, 58)
+
+
+Frame 67 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 53)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 68 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 54)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 69 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(17, 55)
+Object 2:(5, 42)
+Object 1:(11, 60)
+
+
+Frame 70 : 
+-------- 
+Object 3:(-4, 71)
+Object 0:(17, 55)
+Object 2:(5, 43)
+Object 1:(11, 60)
+
+
+Frame 71 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 56)
+Object 2:(5, 44)
+Object 1:(11, 61)
+
+
+Frame 72 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(5, 45)
+Object 1:(11, 61)
+
+
+Frame 73 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(6, 46)
+Object 1:(10, 61)
+
+
+Frame 74 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(16, 58)
+Object 2:(6, 47)
+Object 1:(10, 62)
+
+
+Frame 75 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 58)
+Object 2:(6, 48)
+Object 1:(10, 62)
+
+
+Frame 76 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 59)
+Object 2:(6, 49)
+Object 1:(9, 63)
+
+
+Frame 77 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 60)
+Object 2:(6, 50)
+Object 1:(9, 63)
+
+
+Frame 78 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(15, 60)
+Object 2:(6, 51)
+Object 1:(9, 64)
+
+
+Frame 79 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 61)
+Object 2:(6, 52)
+Object 1:(9, 64)
+
+
+Frame 80 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 53)
+Object 1:(9, 64)
+
+
+Frame 81 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 54)
+Object 1:(8, 65)
+
+
+Frame 82 : 
+-------- 
+Object 3:(-1, 70)
+Object 0:(15, 63)
+Object 2:(6, 55)
+Object 1:(8, 65)
+
+
+Frame 83 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(15, 64)
+Object 2:(7, 55)
+Object 1:(8, 66)
+
+
+Frame 84 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 64)
+Object 2:(7, 56)
+Object 1:(7, 66)
+
+
+Frame 85 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 86 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 87 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 66)
+Object 2:(7, 58)
+Object 1:(7, 68)
+
+
+Frame 88 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 58)
+Object 1:(7, 69)
+
+
+Frame 89 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 59)
+Object 1:(6, 70)
+
+
+Frame 90 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(7, 71)
+
+
+Frame 91 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(6, 72)
+
+
+Frame 92 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 72)
+
+
+Frame 93 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 73)
+
+
+Frame 94 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 74)
+
+
+Frame 95 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 75)
+
+
+Frame 96 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 71)
+Object 2:(8, 61)
+Object 1:(6, 76)
+
+
+Frame 97 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 76)
+
+
+Frame 98 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 77)
+
+
+Frame 99 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 73)
+Object 2:(8, 62)
+Object 1:(5, 78)
+
+
+Frame 100 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 73)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 101 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 102 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 80)
+
+
+Frame 103 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 75)
+Object 2:(8, 64)
+Object 1:(5, 81)
+
+
+Frame 104 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 75)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 105 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 106 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 83)
+
+
+Frame 107 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(5, 84)
+
+
+Frame 108 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(4, 84)
+
+
+Frame 109 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 78)
+Object 2:(9, 65)
+Object 1:(4, 85)
+
+
+Frame 110 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(9, 78)
+Object 2:(9, 64)
+Object 1:(4, 86)
+
+
+Frame 111 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 79)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 112 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 113 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 114 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 115 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(9, 64)
+Object 1:(4, 89)
+
+
+Frame 116 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(10, 64)
+Object 1:(4, 90)
+
+
+Frame 117 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 82)
+Object 2:(10, 64)
+Object 1:(3, 90)
+
+
+Frame 118 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 82)
+Object 2:(10, 64)
+Object 1:(3, 91)
+
+
+Frame 119 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(10, 64)
+Object 1:(3, 92)
+
+
+Frame 120 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 121 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 122 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 123 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 124 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 95)
+
+
+Frame 125 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(11, 64)
+Object 1:(2, 96)
+
+
+Frame 126 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(12, 64)
+Object 1:(2, 96)
+
+
+Frame 127 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 87)
+Object 2:(12, 63)
+Object 1:(2, 97)
+
+
+
+A collision is defined as the phenomenon where the difference between both the X and Y coordinates of both objects is less than 12 units.Based on the given data, answer the questions posed by the user.
+
+
+
+Question : What is the color of the first object to collide with the gray object?
+Question Type : descriptive
+Answer : brown
+GPT Answer : <api call here>
+
+
+
+System Prompt: Given below are the properties of certain objects in a JSON format. The properties include the color, shape, and material of the objects.
+
+[{'object_id': 0, 'color': 'brown', 'material': 'rubber', 'shape': 'sphere'}, {'object_id': 1, 'color': 'gray', 'material': 'metal', 'shape': 'sphere'}, {'object_id': 2, 'color': 'cyan', 'material': 'rubber', 'shape': 'cube'}, {'object_id': 3, 'color': 'blue', 'material': 'metal', 'shape': 'cylinder'}]
+
+The objects defined above are moving on an XY Cartesian plane and their individual X and Y coordinates have been recorded for every frame. These are provided below.
+
+
+Frame 0 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 1 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 2 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 3 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 4 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 5 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 6 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 7 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 8 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 9 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 10 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 11 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 12 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 13 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 14 : 
+-------- 
+Object 2:(-1, -10)
+Object 1:(17, 51)
+
+
+Frame 15 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 16 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 17 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 18 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 19 : 
+-------- 
+Object 2:(-1, -7)
+Object 1:(17, 51)
+
+
+Frame 20 : 
+-------- 
+Object 2:(0, -7)
+Object 1:(17, 51)
+
+
+Frame 21 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 22 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 23 : 
+-------- 
+Object 2:(0, -4)
+Object 1:(17, 51)
+
+
+Frame 24 : 
+-------- 
+Object 0:(47, -10)
+Object 2:(0, -3)
+Object 1:(17, 51)
+
+
+Frame 25 : 
+-------- 
+Object 0:(46, -9)
+Object 2:(0, -2)
+Object 1:(17, 51)
+
+
+Frame 26 : 
+-------- 
+Object 0:(45, -8)
+Object 2:(0, -1)
+Object 1:(17, 51)
+
+
+Frame 27 : 
+-------- 
+Object 0:(43, -6)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 28 : 
+-------- 
+Object 0:(42, -5)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 29 : 
+-------- 
+Object 0:(41, -3)
+Object 2:(0, 1)
+Object 1:(17, 51)
+
+
+Frame 30 : 
+-------- 
+Object 0:(40, -1)
+Object 2:(0, 2)
+Object 1:(17, 51)
+
+
+Frame 31 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(39, 1)
+Object 2:(0, 3)
+Object 1:(17, 51)
+
+
+Frame 32 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(38, 3)
+Object 2:(0, 4)
+Object 1:(17, 51)
+
+
+Frame 33 : 
+-------- 
+Object 3:(-10, 75)
+Object 0:(37, 5)
+Object 2:(0, 5)
+Object 1:(17, 51)
+
+
+Frame 34 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(36, 8)
+Object 2:(0, 6)
+Object 1:(17, 51)
+
+
+Frame 35 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(35, 10)
+Object 2:(1, 7)
+Object 1:(17, 51)
+
+
+Frame 36 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 12)
+Object 2:(1, 9)
+Object 1:(17, 51)
+
+
+Frame 37 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 14)
+Object 2:(1, 10)
+Object 1:(17, 51)
+
+
+Frame 38 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(33, 16)
+Object 2:(1, 11)
+Object 1:(17, 51)
+
+
+Frame 39 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(32, 18)
+Object 2:(1, 12)
+Object 1:(17, 51)
+
+
+Frame 40 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(31, 20)
+Object 2:(1, 13)
+Object 1:(17, 51)
+
+
+Frame 41 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(30, 22)
+Object 2:(2, 14)
+Object 1:(17, 51)
+
+
+Frame 42 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 24)
+Object 2:(2, 15)
+Object 1:(17, 51)
+
+
+Frame 43 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 26)
+Object 2:(2, 16)
+Object 1:(17, 51)
+
+
+Frame 44 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(28, 27)
+Object 2:(2, 17)
+Object 1:(17, 51)
+
+
+Frame 45 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(27, 29)
+Object 2:(2, 18)
+Object 1:(17, 51)
+
+
+Frame 46 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(26, 31)
+Object 2:(2, 19)
+Object 1:(17, 51)
+
+
+Frame 47 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(26, 32)
+Object 2:(2, 20)
+Object 1:(17, 51)
+
+
+Frame 48 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(25, 34)
+Object 2:(2, 21)
+Object 1:(17, 51)
+
+
+Frame 49 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 36)
+Object 2:(3, 22)
+Object 1:(17, 51)
+
+
+Frame 50 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 37)
+Object 2:(3, 23)
+Object 1:(17, 51)
+
+
+Frame 51 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(23, 39)
+Object 2:(3, 24)
+Object 1:(17, 51)
+
+
+Frame 52 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 40)
+Object 2:(3, 25)
+Object 1:(17, 51)
+
+
+Frame 53 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 42)
+Object 2:(3, 26)
+Object 1:(17, 51)
+
+
+Frame 54 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 43)
+Object 2:(3, 28)
+Object 1:(17, 52)
+
+
+Frame 55 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 44)
+Object 2:(3, 28)
+Object 1:(16, 52)
+
+
+Frame 56 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 45)
+Object 2:(4, 30)
+Object 1:(16, 53)
+
+
+Frame 57 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 46)
+Object 2:(4, 31)
+Object 1:(16, 53)
+
+
+Frame 58 : 
+-------- 
+Object 3:(-7, 72)
+Object 0:(20, 47)
+Object 2:(4, 32)
+Object 1:(15, 54)
+
+
+Frame 59 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(20, 47)
+Object 2:(4, 33)
+Object 1:(15, 54)
+
+
+Frame 60 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 48)
+Object 2:(4, 34)
+Object 1:(14, 55)
+
+
+Frame 61 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 49)
+Object 2:(4, 35)
+Object 1:(14, 56)
+
+
+Frame 62 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 36)
+Object 1:(14, 56)
+
+
+Frame 63 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 37)
+Object 1:(13, 57)
+
+
+Frame 64 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 51)
+Object 2:(5, 38)
+Object 1:(13, 57)
+
+
+Frame 65 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 39)
+Object 1:(13, 58)
+
+
+Frame 66 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 40)
+Object 1:(13, 58)
+
+
+Frame 67 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 53)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 68 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 54)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 69 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(17, 55)
+Object 2:(5, 42)
+Object 1:(11, 60)
+
+
+Frame 70 : 
+-------- 
+Object 3:(-4, 71)
+Object 0:(17, 55)
+Object 2:(5, 43)
+Object 1:(11, 60)
+
+
+Frame 71 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 56)
+Object 2:(5, 44)
+Object 1:(11, 61)
+
+
+Frame 72 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(5, 45)
+Object 1:(11, 61)
+
+
+Frame 73 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(6, 46)
+Object 1:(10, 61)
+
+
+Frame 74 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(16, 58)
+Object 2:(6, 47)
+Object 1:(10, 62)
+
+
+Frame 75 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 58)
+Object 2:(6, 48)
+Object 1:(10, 62)
+
+
+Frame 76 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 59)
+Object 2:(6, 49)
+Object 1:(9, 63)
+
+
+Frame 77 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 60)
+Object 2:(6, 50)
+Object 1:(9, 63)
+
+
+Frame 78 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(15, 60)
+Object 2:(6, 51)
+Object 1:(9, 64)
+
+
+Frame 79 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 61)
+Object 2:(6, 52)
+Object 1:(9, 64)
+
+
+Frame 80 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 53)
+Object 1:(9, 64)
+
+
+Frame 81 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 54)
+Object 1:(8, 65)
+
+
+Frame 82 : 
+-------- 
+Object 3:(-1, 70)
+Object 0:(15, 63)
+Object 2:(6, 55)
+Object 1:(8, 65)
+
+
+Frame 83 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(15, 64)
+Object 2:(7, 55)
+Object 1:(8, 66)
+
+
+Frame 84 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 64)
+Object 2:(7, 56)
+Object 1:(7, 66)
+
+
+Frame 85 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 86 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 87 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 66)
+Object 2:(7, 58)
+Object 1:(7, 68)
+
+
+Frame 88 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 58)
+Object 1:(7, 69)
+
+
+Frame 89 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 59)
+Object 1:(6, 70)
+
+
+Frame 90 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(7, 71)
+
+
+Frame 91 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(6, 72)
+
+
+Frame 92 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 72)
+
+
+Frame 93 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 73)
+
+
+Frame 94 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 74)
+
+
+Frame 95 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 75)
+
+
+Frame 96 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 71)
+Object 2:(8, 61)
+Object 1:(6, 76)
+
+
+Frame 97 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 76)
+
+
+Frame 98 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 77)
+
+
+Frame 99 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 73)
+Object 2:(8, 62)
+Object 1:(5, 78)
+
+
+Frame 100 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 73)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 101 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 102 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 80)
+
+
+Frame 103 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 75)
+Object 2:(8, 64)
+Object 1:(5, 81)
+
+
+Frame 104 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 75)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 105 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 106 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 83)
+
+
+Frame 107 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(5, 84)
+
+
+Frame 108 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(4, 84)
+
+
+Frame 109 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 78)
+Object 2:(9, 65)
+Object 1:(4, 85)
+
+
+Frame 110 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(9, 78)
+Object 2:(9, 64)
+Object 1:(4, 86)
+
+
+Frame 111 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 79)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 112 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 113 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 114 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 115 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(9, 64)
+Object 1:(4, 89)
+
+
+Frame 116 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(10, 64)
+Object 1:(4, 90)
+
+
+Frame 117 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 82)
+Object 2:(10, 64)
+Object 1:(3, 90)
+
+
+Frame 118 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 82)
+Object 2:(10, 64)
+Object 1:(3, 91)
+
+
+Frame 119 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(10, 64)
+Object 1:(3, 92)
+
+
+Frame 120 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 121 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 122 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 123 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 124 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 95)
+
+
+Frame 125 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(11, 64)
+Object 1:(2, 96)
+
+
+Frame 126 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(12, 64)
+Object 1:(2, 96)
+
+
+Frame 127 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 87)
+Object 2:(12, 63)
+Object 1:(2, 97)
+
+
+
+A collision is defined as the phenomenon where the difference between both the X and Y coordinates of both objects is less than 12 units.Based on the given data, answer the questions posed by the user.
+
+
+
+Question : What shape is the moving metal object when the rubber sphere enters the scene?
+Question Type : descriptive
+Answer : cylinder
+GPT Answer : <api call here>
+
+
+
+System Prompt: Given below are the properties of certain objects in a JSON format. The properties include the color, shape, and material of the objects.
+
+[{'object_id': 0, 'color': 'brown', 'material': 'rubber', 'shape': 'sphere'}, {'object_id': 1, 'color': 'gray', 'material': 'metal', 'shape': 'sphere'}, {'object_id': 2, 'color': 'cyan', 'material': 'rubber', 'shape': 'cube'}, {'object_id': 3, 'color': 'blue', 'material': 'metal', 'shape': 'cylinder'}]
+
+The objects defined above are moving on an XY Cartesian plane and their individual X and Y coordinates have been recorded for every frame. These are provided below.
+
+
+Frame 0 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 1 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 2 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 3 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 4 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 5 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 6 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 7 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 8 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 9 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 10 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 11 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 12 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 13 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 14 : 
+-------- 
+Object 2:(-1, -10)
+Object 1:(17, 51)
+
+
+Frame 15 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 16 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 17 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 18 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 19 : 
+-------- 
+Object 2:(-1, -7)
+Object 1:(17, 51)
+
+
+Frame 20 : 
+-------- 
+Object 2:(0, -7)
+Object 1:(17, 51)
+
+
+Frame 21 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 22 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 23 : 
+-------- 
+Object 2:(0, -4)
+Object 1:(17, 51)
+
+
+Frame 24 : 
+-------- 
+Object 0:(47, -10)
+Object 2:(0, -3)
+Object 1:(17, 51)
+
+
+Frame 25 : 
+-------- 
+Object 0:(46, -9)
+Object 2:(0, -2)
+Object 1:(17, 51)
+
+
+Frame 26 : 
+-------- 
+Object 0:(45, -8)
+Object 2:(0, -1)
+Object 1:(17, 51)
+
+
+Frame 27 : 
+-------- 
+Object 0:(43, -6)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 28 : 
+-------- 
+Object 0:(42, -5)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 29 : 
+-------- 
+Object 0:(41, -3)
+Object 2:(0, 1)
+Object 1:(17, 51)
+
+
+Frame 30 : 
+-------- 
+Object 0:(40, -1)
+Object 2:(0, 2)
+Object 1:(17, 51)
+
+
+Frame 31 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(39, 1)
+Object 2:(0, 3)
+Object 1:(17, 51)
+
+
+Frame 32 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(38, 3)
+Object 2:(0, 4)
+Object 1:(17, 51)
+
+
+Frame 33 : 
+-------- 
+Object 3:(-10, 75)
+Object 0:(37, 5)
+Object 2:(0, 5)
+Object 1:(17, 51)
+
+
+Frame 34 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(36, 8)
+Object 2:(0, 6)
+Object 1:(17, 51)
+
+
+Frame 35 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(35, 10)
+Object 2:(1, 7)
+Object 1:(17, 51)
+
+
+Frame 36 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 12)
+Object 2:(1, 9)
+Object 1:(17, 51)
+
+
+Frame 37 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 14)
+Object 2:(1, 10)
+Object 1:(17, 51)
+
+
+Frame 38 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(33, 16)
+Object 2:(1, 11)
+Object 1:(17, 51)
+
+
+Frame 39 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(32, 18)
+Object 2:(1, 12)
+Object 1:(17, 51)
+
+
+Frame 40 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(31, 20)
+Object 2:(1, 13)
+Object 1:(17, 51)
+
+
+Frame 41 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(30, 22)
+Object 2:(2, 14)
+Object 1:(17, 51)
+
+
+Frame 42 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 24)
+Object 2:(2, 15)
+Object 1:(17, 51)
+
+
+Frame 43 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 26)
+Object 2:(2, 16)
+Object 1:(17, 51)
+
+
+Frame 44 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(28, 27)
+Object 2:(2, 17)
+Object 1:(17, 51)
+
+
+Frame 45 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(27, 29)
+Object 2:(2, 18)
+Object 1:(17, 51)
+
+
+Frame 46 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(26, 31)
+Object 2:(2, 19)
+Object 1:(17, 51)
+
+
+Frame 47 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(26, 32)
+Object 2:(2, 20)
+Object 1:(17, 51)
+
+
+Frame 48 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(25, 34)
+Object 2:(2, 21)
+Object 1:(17, 51)
+
+
+Frame 49 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 36)
+Object 2:(3, 22)
+Object 1:(17, 51)
+
+
+Frame 50 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 37)
+Object 2:(3, 23)
+Object 1:(17, 51)
+
+
+Frame 51 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(23, 39)
+Object 2:(3, 24)
+Object 1:(17, 51)
+
+
+Frame 52 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 40)
+Object 2:(3, 25)
+Object 1:(17, 51)
+
+
+Frame 53 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 42)
+Object 2:(3, 26)
+Object 1:(17, 51)
+
+
+Frame 54 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 43)
+Object 2:(3, 28)
+Object 1:(17, 52)
+
+
+Frame 55 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 44)
+Object 2:(3, 28)
+Object 1:(16, 52)
+
+
+Frame 56 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 45)
+Object 2:(4, 30)
+Object 1:(16, 53)
+
+
+Frame 57 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 46)
+Object 2:(4, 31)
+Object 1:(16, 53)
+
+
+Frame 58 : 
+-------- 
+Object 3:(-7, 72)
+Object 0:(20, 47)
+Object 2:(4, 32)
+Object 1:(15, 54)
+
+
+Frame 59 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(20, 47)
+Object 2:(4, 33)
+Object 1:(15, 54)
+
+
+Frame 60 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 48)
+Object 2:(4, 34)
+Object 1:(14, 55)
+
+
+Frame 61 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 49)
+Object 2:(4, 35)
+Object 1:(14, 56)
+
+
+Frame 62 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 36)
+Object 1:(14, 56)
+
+
+Frame 63 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 37)
+Object 1:(13, 57)
+
+
+Frame 64 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 51)
+Object 2:(5, 38)
+Object 1:(13, 57)
+
+
+Frame 65 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 39)
+Object 1:(13, 58)
+
+
+Frame 66 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 40)
+Object 1:(13, 58)
+
+
+Frame 67 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 53)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 68 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 54)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 69 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(17, 55)
+Object 2:(5, 42)
+Object 1:(11, 60)
+
+
+Frame 70 : 
+-------- 
+Object 3:(-4, 71)
+Object 0:(17, 55)
+Object 2:(5, 43)
+Object 1:(11, 60)
+
+
+Frame 71 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 56)
+Object 2:(5, 44)
+Object 1:(11, 61)
+
+
+Frame 72 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(5, 45)
+Object 1:(11, 61)
+
+
+Frame 73 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(6, 46)
+Object 1:(10, 61)
+
+
+Frame 74 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(16, 58)
+Object 2:(6, 47)
+Object 1:(10, 62)
+
+
+Frame 75 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 58)
+Object 2:(6, 48)
+Object 1:(10, 62)
+
+
+Frame 76 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 59)
+Object 2:(6, 49)
+Object 1:(9, 63)
+
+
+Frame 77 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 60)
+Object 2:(6, 50)
+Object 1:(9, 63)
+
+
+Frame 78 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(15, 60)
+Object 2:(6, 51)
+Object 1:(9, 64)
+
+
+Frame 79 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 61)
+Object 2:(6, 52)
+Object 1:(9, 64)
+
+
+Frame 80 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 53)
+Object 1:(9, 64)
+
+
+Frame 81 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 54)
+Object 1:(8, 65)
+
+
+Frame 82 : 
+-------- 
+Object 3:(-1, 70)
+Object 0:(15, 63)
+Object 2:(6, 55)
+Object 1:(8, 65)
+
+
+Frame 83 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(15, 64)
+Object 2:(7, 55)
+Object 1:(8, 66)
+
+
+Frame 84 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 64)
+Object 2:(7, 56)
+Object 1:(7, 66)
+
+
+Frame 85 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 86 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 87 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 66)
+Object 2:(7, 58)
+Object 1:(7, 68)
+
+
+Frame 88 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 58)
+Object 1:(7, 69)
+
+
+Frame 89 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 59)
+Object 1:(6, 70)
+
+
+Frame 90 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(7, 71)
+
+
+Frame 91 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(6, 72)
+
+
+Frame 92 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 72)
+
+
+Frame 93 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 73)
+
+
+Frame 94 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 74)
+
+
+Frame 95 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 75)
+
+
+Frame 96 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 71)
+Object 2:(8, 61)
+Object 1:(6, 76)
+
+
+Frame 97 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 76)
+
+
+Frame 98 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 77)
+
+
+Frame 99 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 73)
+Object 2:(8, 62)
+Object 1:(5, 78)
+
+
+Frame 100 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 73)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 101 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 102 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 80)
+
+
+Frame 103 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 75)
+Object 2:(8, 64)
+Object 1:(5, 81)
+
+
+Frame 104 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 75)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 105 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 106 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 83)
+
+
+Frame 107 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(5, 84)
+
+
+Frame 108 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(4, 84)
+
+
+Frame 109 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 78)
+Object 2:(9, 65)
+Object 1:(4, 85)
+
+
+Frame 110 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(9, 78)
+Object 2:(9, 64)
+Object 1:(4, 86)
+
+
+Frame 111 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 79)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 112 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 113 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 114 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 115 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(9, 64)
+Object 1:(4, 89)
+
+
+Frame 116 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(10, 64)
+Object 1:(4, 90)
+
+
+Frame 117 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 82)
+Object 2:(10, 64)
+Object 1:(3, 90)
+
+
+Frame 118 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 82)
+Object 2:(10, 64)
+Object 1:(3, 91)
+
+
+Frame 119 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(10, 64)
+Object 1:(3, 92)
+
+
+Frame 120 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 121 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 122 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 123 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 124 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 95)
+
+
+Frame 125 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(11, 64)
+Object 1:(2, 96)
+
+
+Frame 126 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(12, 64)
+Object 1:(2, 96)
+
+
+Frame 127 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 87)
+Object 2:(12, 63)
+Object 1:(2, 97)
+
+
+
+A collision is defined as the phenomenon where the difference between both the X and Y coordinates of both objects is less than 12 units.Based on the given data, answer the questions posed by the user.
+
+
+
+Question : What is the color of the metal object that is stationary when the cylinder enters the scene?
+Question Type : descriptive
+Answer : gray
+GPT Answer : <api call here>
+
+
+
+System Prompt: Given below are the properties of certain objects in a JSON format. The properties include the color, shape, and material of the objects.
+
+[{'object_id': 0, 'color': 'brown', 'material': 'rubber', 'shape': 'sphere'}, {'object_id': 1, 'color': 'gray', 'material': 'metal', 'shape': 'sphere'}, {'object_id': 2, 'color': 'cyan', 'material': 'rubber', 'shape': 'cube'}, {'object_id': 3, 'color': 'blue', 'material': 'metal', 'shape': 'cylinder'}]
+
+The objects defined above are moving on an XY Cartesian plane and their individual X and Y coordinates have been recorded for every frame. These are provided below.
+
+
+Frame 0 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 1 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 2 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 3 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 4 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 5 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 6 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 7 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 8 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 9 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 10 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 11 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 12 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 13 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 14 : 
+-------- 
+Object 2:(-1, -10)
+Object 1:(17, 51)
+
+
+Frame 15 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 16 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 17 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 18 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 19 : 
+-------- 
+Object 2:(-1, -7)
+Object 1:(17, 51)
+
+
+Frame 20 : 
+-------- 
+Object 2:(0, -7)
+Object 1:(17, 51)
+
+
+Frame 21 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 22 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 23 : 
+-------- 
+Object 2:(0, -4)
+Object 1:(17, 51)
+
+
+Frame 24 : 
+-------- 
+Object 0:(47, -10)
+Object 2:(0, -3)
+Object 1:(17, 51)
+
+
+Frame 25 : 
+-------- 
+Object 0:(46, -9)
+Object 2:(0, -2)
+Object 1:(17, 51)
+
+
+Frame 26 : 
+-------- 
+Object 0:(45, -8)
+Object 2:(0, -1)
+Object 1:(17, 51)
+
+
+Frame 27 : 
+-------- 
+Object 0:(43, -6)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 28 : 
+-------- 
+Object 0:(42, -5)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 29 : 
+-------- 
+Object 0:(41, -3)
+Object 2:(0, 1)
+Object 1:(17, 51)
+
+
+Frame 30 : 
+-------- 
+Object 0:(40, -1)
+Object 2:(0, 2)
+Object 1:(17, 51)
+
+
+Frame 31 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(39, 1)
+Object 2:(0, 3)
+Object 1:(17, 51)
+
+
+Frame 32 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(38, 3)
+Object 2:(0, 4)
+Object 1:(17, 51)
+
+
+Frame 33 : 
+-------- 
+Object 3:(-10, 75)
+Object 0:(37, 5)
+Object 2:(0, 5)
+Object 1:(17, 51)
+
+
+Frame 34 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(36, 8)
+Object 2:(0, 6)
+Object 1:(17, 51)
+
+
+Frame 35 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(35, 10)
+Object 2:(1, 7)
+Object 1:(17, 51)
+
+
+Frame 36 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 12)
+Object 2:(1, 9)
+Object 1:(17, 51)
+
+
+Frame 37 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 14)
+Object 2:(1, 10)
+Object 1:(17, 51)
+
+
+Frame 38 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(33, 16)
+Object 2:(1, 11)
+Object 1:(17, 51)
+
+
+Frame 39 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(32, 18)
+Object 2:(1, 12)
+Object 1:(17, 51)
+
+
+Frame 40 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(31, 20)
+Object 2:(1, 13)
+Object 1:(17, 51)
+
+
+Frame 41 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(30, 22)
+Object 2:(2, 14)
+Object 1:(17, 51)
+
+
+Frame 42 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 24)
+Object 2:(2, 15)
+Object 1:(17, 51)
+
+
+Frame 43 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 26)
+Object 2:(2, 16)
+Object 1:(17, 51)
+
+
+Frame 44 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(28, 27)
+Object 2:(2, 17)
+Object 1:(17, 51)
+
+
+Frame 45 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(27, 29)
+Object 2:(2, 18)
+Object 1:(17, 51)
+
+
+Frame 46 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(26, 31)
+Object 2:(2, 19)
+Object 1:(17, 51)
+
+
+Frame 47 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(26, 32)
+Object 2:(2, 20)
+Object 1:(17, 51)
+
+
+Frame 48 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(25, 34)
+Object 2:(2, 21)
+Object 1:(17, 51)
+
+
+Frame 49 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 36)
+Object 2:(3, 22)
+Object 1:(17, 51)
+
+
+Frame 50 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 37)
+Object 2:(3, 23)
+Object 1:(17, 51)
+
+
+Frame 51 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(23, 39)
+Object 2:(3, 24)
+Object 1:(17, 51)
+
+
+Frame 52 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 40)
+Object 2:(3, 25)
+Object 1:(17, 51)
+
+
+Frame 53 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 42)
+Object 2:(3, 26)
+Object 1:(17, 51)
+
+
+Frame 54 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 43)
+Object 2:(3, 28)
+Object 1:(17, 52)
+
+
+Frame 55 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 44)
+Object 2:(3, 28)
+Object 1:(16, 52)
+
+
+Frame 56 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 45)
+Object 2:(4, 30)
+Object 1:(16, 53)
+
+
+Frame 57 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 46)
+Object 2:(4, 31)
+Object 1:(16, 53)
+
+
+Frame 58 : 
+-------- 
+Object 3:(-7, 72)
+Object 0:(20, 47)
+Object 2:(4, 32)
+Object 1:(15, 54)
+
+
+Frame 59 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(20, 47)
+Object 2:(4, 33)
+Object 1:(15, 54)
+
+
+Frame 60 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 48)
+Object 2:(4, 34)
+Object 1:(14, 55)
+
+
+Frame 61 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 49)
+Object 2:(4, 35)
+Object 1:(14, 56)
+
+
+Frame 62 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 36)
+Object 1:(14, 56)
+
+
+Frame 63 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 37)
+Object 1:(13, 57)
+
+
+Frame 64 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 51)
+Object 2:(5, 38)
+Object 1:(13, 57)
+
+
+Frame 65 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 39)
+Object 1:(13, 58)
+
+
+Frame 66 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 40)
+Object 1:(13, 58)
+
+
+Frame 67 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 53)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 68 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 54)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 69 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(17, 55)
+Object 2:(5, 42)
+Object 1:(11, 60)
+
+
+Frame 70 : 
+-------- 
+Object 3:(-4, 71)
+Object 0:(17, 55)
+Object 2:(5, 43)
+Object 1:(11, 60)
+
+
+Frame 71 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 56)
+Object 2:(5, 44)
+Object 1:(11, 61)
+
+
+Frame 72 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(5, 45)
+Object 1:(11, 61)
+
+
+Frame 73 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(6, 46)
+Object 1:(10, 61)
+
+
+Frame 74 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(16, 58)
+Object 2:(6, 47)
+Object 1:(10, 62)
+
+
+Frame 75 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 58)
+Object 2:(6, 48)
+Object 1:(10, 62)
+
+
+Frame 76 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 59)
+Object 2:(6, 49)
+Object 1:(9, 63)
+
+
+Frame 77 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 60)
+Object 2:(6, 50)
+Object 1:(9, 63)
+
+
+Frame 78 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(15, 60)
+Object 2:(6, 51)
+Object 1:(9, 64)
+
+
+Frame 79 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 61)
+Object 2:(6, 52)
+Object 1:(9, 64)
+
+
+Frame 80 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 53)
+Object 1:(9, 64)
+
+
+Frame 81 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 54)
+Object 1:(8, 65)
+
+
+Frame 82 : 
+-------- 
+Object 3:(-1, 70)
+Object 0:(15, 63)
+Object 2:(6, 55)
+Object 1:(8, 65)
+
+
+Frame 83 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(15, 64)
+Object 2:(7, 55)
+Object 1:(8, 66)
+
+
+Frame 84 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 64)
+Object 2:(7, 56)
+Object 1:(7, 66)
+
+
+Frame 85 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 86 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 87 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 66)
+Object 2:(7, 58)
+Object 1:(7, 68)
+
+
+Frame 88 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 58)
+Object 1:(7, 69)
+
+
+Frame 89 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 59)
+Object 1:(6, 70)
+
+
+Frame 90 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(7, 71)
+
+
+Frame 91 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(6, 72)
+
+
+Frame 92 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 72)
+
+
+Frame 93 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 73)
+
+
+Frame 94 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 74)
+
+
+Frame 95 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 75)
+
+
+Frame 96 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 71)
+Object 2:(8, 61)
+Object 1:(6, 76)
+
+
+Frame 97 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 76)
+
+
+Frame 98 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 77)
+
+
+Frame 99 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 73)
+Object 2:(8, 62)
+Object 1:(5, 78)
+
+
+Frame 100 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 73)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 101 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 102 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 80)
+
+
+Frame 103 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 75)
+Object 2:(8, 64)
+Object 1:(5, 81)
+
+
+Frame 104 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 75)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 105 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 106 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 83)
+
+
+Frame 107 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(5, 84)
+
+
+Frame 108 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(4, 84)
+
+
+Frame 109 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 78)
+Object 2:(9, 65)
+Object 1:(4, 85)
+
+
+Frame 110 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(9, 78)
+Object 2:(9, 64)
+Object 1:(4, 86)
+
+
+Frame 111 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 79)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 112 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 113 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 114 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 115 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(9, 64)
+Object 1:(4, 89)
+
+
+Frame 116 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(10, 64)
+Object 1:(4, 90)
+
+
+Frame 117 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 82)
+Object 2:(10, 64)
+Object 1:(3, 90)
+
+
+Frame 118 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 82)
+Object 2:(10, 64)
+Object 1:(3, 91)
+
+
+Frame 119 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(10, 64)
+Object 1:(3, 92)
+
+
+Frame 120 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 121 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 122 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 123 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 124 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 95)
+
+
+Frame 125 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(11, 64)
+Object 1:(2, 96)
+
+
+Frame 126 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(12, 64)
+Object 1:(2, 96)
+
+
+Frame 127 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 87)
+Object 2:(12, 63)
+Object 1:(2, 97)
+
+
+
+A collision is defined as the phenomenon where the difference between both the X and Y coordinates of both objects is less than 12 units.Based on the given data, answer the questions posed by the user.
+
+
+
+Question : Are there any brown objects that enter the scene after the cube enters the scene?
+Question Type : descriptive
+Answer : yes
+GPT Answer : <api call here>
+
+
+
+System Prompt: Given below are the properties of certain objects in a JSON format. The properties include the color, shape, and material of the objects.
+
+[{'object_id': 0, 'color': 'brown', 'material': 'rubber', 'shape': 'sphere'}, {'object_id': 1, 'color': 'gray', 'material': 'metal', 'shape': 'sphere'}, {'object_id': 2, 'color': 'cyan', 'material': 'rubber', 'shape': 'cube'}, {'object_id': 3, 'color': 'blue', 'material': 'metal', 'shape': 'cylinder'}]
+
+The objects defined above are moving on an XY Cartesian plane and their individual X and Y coordinates have been recorded for every frame. These are provided below.
+
+
+Frame 0 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 1 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 2 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 3 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 4 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 5 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 6 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 7 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 8 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 9 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 10 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 11 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 12 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 13 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 14 : 
+-------- 
+Object 2:(-1, -10)
+Object 1:(17, 51)
+
+
+Frame 15 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 16 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 17 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 18 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 19 : 
+-------- 
+Object 2:(-1, -7)
+Object 1:(17, 51)
+
+
+Frame 20 : 
+-------- 
+Object 2:(0, -7)
+Object 1:(17, 51)
+
+
+Frame 21 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 22 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 23 : 
+-------- 
+Object 2:(0, -4)
+Object 1:(17, 51)
+
+
+Frame 24 : 
+-------- 
+Object 0:(47, -10)
+Object 2:(0, -3)
+Object 1:(17, 51)
+
+
+Frame 25 : 
+-------- 
+Object 0:(46, -9)
+Object 2:(0, -2)
+Object 1:(17, 51)
+
+
+Frame 26 : 
+-------- 
+Object 0:(45, -8)
+Object 2:(0, -1)
+Object 1:(17, 51)
+
+
+Frame 27 : 
+-------- 
+Object 0:(43, -6)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 28 : 
+-------- 
+Object 0:(42, -5)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 29 : 
+-------- 
+Object 0:(41, -3)
+Object 2:(0, 1)
+Object 1:(17, 51)
+
+
+Frame 30 : 
+-------- 
+Object 0:(40, -1)
+Object 2:(0, 2)
+Object 1:(17, 51)
+
+
+Frame 31 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(39, 1)
+Object 2:(0, 3)
+Object 1:(17, 51)
+
+
+Frame 32 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(38, 3)
+Object 2:(0, 4)
+Object 1:(17, 51)
+
+
+Frame 33 : 
+-------- 
+Object 3:(-10, 75)
+Object 0:(37, 5)
+Object 2:(0, 5)
+Object 1:(17, 51)
+
+
+Frame 34 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(36, 8)
+Object 2:(0, 6)
+Object 1:(17, 51)
+
+
+Frame 35 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(35, 10)
+Object 2:(1, 7)
+Object 1:(17, 51)
+
+
+Frame 36 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 12)
+Object 2:(1, 9)
+Object 1:(17, 51)
+
+
+Frame 37 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 14)
+Object 2:(1, 10)
+Object 1:(17, 51)
+
+
+Frame 38 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(33, 16)
+Object 2:(1, 11)
+Object 1:(17, 51)
+
+
+Frame 39 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(32, 18)
+Object 2:(1, 12)
+Object 1:(17, 51)
+
+
+Frame 40 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(31, 20)
+Object 2:(1, 13)
+Object 1:(17, 51)
+
+
+Frame 41 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(30, 22)
+Object 2:(2, 14)
+Object 1:(17, 51)
+
+
+Frame 42 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 24)
+Object 2:(2, 15)
+Object 1:(17, 51)
+
+
+Frame 43 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 26)
+Object 2:(2, 16)
+Object 1:(17, 51)
+
+
+Frame 44 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(28, 27)
+Object 2:(2, 17)
+Object 1:(17, 51)
+
+
+Frame 45 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(27, 29)
+Object 2:(2, 18)
+Object 1:(17, 51)
+
+
+Frame 46 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(26, 31)
+Object 2:(2, 19)
+Object 1:(17, 51)
+
+
+Frame 47 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(26, 32)
+Object 2:(2, 20)
+Object 1:(17, 51)
+
+
+Frame 48 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(25, 34)
+Object 2:(2, 21)
+Object 1:(17, 51)
+
+
+Frame 49 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 36)
+Object 2:(3, 22)
+Object 1:(17, 51)
+
+
+Frame 50 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 37)
+Object 2:(3, 23)
+Object 1:(17, 51)
+
+
+Frame 51 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(23, 39)
+Object 2:(3, 24)
+Object 1:(17, 51)
+
+
+Frame 52 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 40)
+Object 2:(3, 25)
+Object 1:(17, 51)
+
+
+Frame 53 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 42)
+Object 2:(3, 26)
+Object 1:(17, 51)
+
+
+Frame 54 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 43)
+Object 2:(3, 28)
+Object 1:(17, 52)
+
+
+Frame 55 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 44)
+Object 2:(3, 28)
+Object 1:(16, 52)
+
+
+Frame 56 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 45)
+Object 2:(4, 30)
+Object 1:(16, 53)
+
+
+Frame 57 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 46)
+Object 2:(4, 31)
+Object 1:(16, 53)
+
+
+Frame 58 : 
+-------- 
+Object 3:(-7, 72)
+Object 0:(20, 47)
+Object 2:(4, 32)
+Object 1:(15, 54)
+
+
+Frame 59 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(20, 47)
+Object 2:(4, 33)
+Object 1:(15, 54)
+
+
+Frame 60 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 48)
+Object 2:(4, 34)
+Object 1:(14, 55)
+
+
+Frame 61 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 49)
+Object 2:(4, 35)
+Object 1:(14, 56)
+
+
+Frame 62 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 36)
+Object 1:(14, 56)
+
+
+Frame 63 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 37)
+Object 1:(13, 57)
+
+
+Frame 64 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 51)
+Object 2:(5, 38)
+Object 1:(13, 57)
+
+
+Frame 65 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 39)
+Object 1:(13, 58)
+
+
+Frame 66 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 40)
+Object 1:(13, 58)
+
+
+Frame 67 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 53)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 68 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 54)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 69 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(17, 55)
+Object 2:(5, 42)
+Object 1:(11, 60)
+
+
+Frame 70 : 
+-------- 
+Object 3:(-4, 71)
+Object 0:(17, 55)
+Object 2:(5, 43)
+Object 1:(11, 60)
+
+
+Frame 71 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 56)
+Object 2:(5, 44)
+Object 1:(11, 61)
+
+
+Frame 72 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(5, 45)
+Object 1:(11, 61)
+
+
+Frame 73 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(6, 46)
+Object 1:(10, 61)
+
+
+Frame 74 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(16, 58)
+Object 2:(6, 47)
+Object 1:(10, 62)
+
+
+Frame 75 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 58)
+Object 2:(6, 48)
+Object 1:(10, 62)
+
+
+Frame 76 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 59)
+Object 2:(6, 49)
+Object 1:(9, 63)
+
+
+Frame 77 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 60)
+Object 2:(6, 50)
+Object 1:(9, 63)
+
+
+Frame 78 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(15, 60)
+Object 2:(6, 51)
+Object 1:(9, 64)
+
+
+Frame 79 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 61)
+Object 2:(6, 52)
+Object 1:(9, 64)
+
+
+Frame 80 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 53)
+Object 1:(9, 64)
+
+
+Frame 81 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 54)
+Object 1:(8, 65)
+
+
+Frame 82 : 
+-------- 
+Object 3:(-1, 70)
+Object 0:(15, 63)
+Object 2:(6, 55)
+Object 1:(8, 65)
+
+
+Frame 83 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(15, 64)
+Object 2:(7, 55)
+Object 1:(8, 66)
+
+
+Frame 84 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 64)
+Object 2:(7, 56)
+Object 1:(7, 66)
+
+
+Frame 85 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 86 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 87 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 66)
+Object 2:(7, 58)
+Object 1:(7, 68)
+
+
+Frame 88 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 58)
+Object 1:(7, 69)
+
+
+Frame 89 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 59)
+Object 1:(6, 70)
+
+
+Frame 90 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(7, 71)
+
+
+Frame 91 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(6, 72)
+
+
+Frame 92 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 72)
+
+
+Frame 93 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 73)
+
+
+Frame 94 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 74)
+
+
+Frame 95 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 75)
+
+
+Frame 96 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 71)
+Object 2:(8, 61)
+Object 1:(6, 76)
+
+
+Frame 97 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 76)
+
+
+Frame 98 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 77)
+
+
+Frame 99 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 73)
+Object 2:(8, 62)
+Object 1:(5, 78)
+
+
+Frame 100 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 73)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 101 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 102 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 80)
+
+
+Frame 103 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 75)
+Object 2:(8, 64)
+Object 1:(5, 81)
+
+
+Frame 104 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 75)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 105 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 106 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 83)
+
+
+Frame 107 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(5, 84)
+
+
+Frame 108 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(4, 84)
+
+
+Frame 109 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 78)
+Object 2:(9, 65)
+Object 1:(4, 85)
+
+
+Frame 110 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(9, 78)
+Object 2:(9, 64)
+Object 1:(4, 86)
+
+
+Frame 111 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 79)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 112 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 113 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 114 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 115 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(9, 64)
+Object 1:(4, 89)
+
+
+Frame 116 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(10, 64)
+Object 1:(4, 90)
+
+
+Frame 117 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 82)
+Object 2:(10, 64)
+Object 1:(3, 90)
+
+
+Frame 118 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 82)
+Object 2:(10, 64)
+Object 1:(3, 91)
+
+
+Frame 119 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(10, 64)
+Object 1:(3, 92)
+
+
+Frame 120 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 121 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 122 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 123 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 124 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 95)
+
+
+Frame 125 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(11, 64)
+Object 1:(2, 96)
+
+
+Frame 126 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(12, 64)
+Object 1:(2, 96)
+
+
+Frame 127 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 87)
+Object 2:(12, 63)
+Object 1:(2, 97)
+
+
+
+A collision is defined as the phenomenon where the difference between both the X and Y coordinates of both objects is less than 12 units.Based on the given data, answer the questions posed by the user.
+
+
+
+Question : How many objects enter the scene?
+Question Type : descriptive
+Answer : 3
+GPT Answer : <api call here>
+
+
+
+System Prompt: Given below are the properties of certain objects in a JSON format. The properties include the color, shape, and material of the objects.
+
+[{'object_id': 0, 'color': 'brown', 'material': 'rubber', 'shape': 'sphere'}, {'object_id': 1, 'color': 'gray', 'material': 'metal', 'shape': 'sphere'}, {'object_id': 2, 'color': 'cyan', 'material': 'rubber', 'shape': 'cube'}, {'object_id': 3, 'color': 'blue', 'material': 'metal', 'shape': 'cylinder'}]
+
+The objects defined above are moving on an XY Cartesian plane and their individual X and Y coordinates have been recorded for every frame. These are provided below.
+
+
+Frame 0 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 1 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 2 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 3 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 4 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 5 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 6 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 7 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 8 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 9 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 10 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 11 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 12 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 13 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 14 : 
+-------- 
+Object 2:(-1, -10)
+Object 1:(17, 51)
+
+
+Frame 15 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 16 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 17 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 18 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 19 : 
+-------- 
+Object 2:(-1, -7)
+Object 1:(17, 51)
+
+
+Frame 20 : 
+-------- 
+Object 2:(0, -7)
+Object 1:(17, 51)
+
+
+Frame 21 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 22 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 23 : 
+-------- 
+Object 2:(0, -4)
+Object 1:(17, 51)
+
+
+Frame 24 : 
+-------- 
+Object 0:(47, -10)
+Object 2:(0, -3)
+Object 1:(17, 51)
+
+
+Frame 25 : 
+-------- 
+Object 0:(46, -9)
+Object 2:(0, -2)
+Object 1:(17, 51)
+
+
+Frame 26 : 
+-------- 
+Object 0:(45, -8)
+Object 2:(0, -1)
+Object 1:(17, 51)
+
+
+Frame 27 : 
+-------- 
+Object 0:(43, -6)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 28 : 
+-------- 
+Object 0:(42, -5)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 29 : 
+-------- 
+Object 0:(41, -3)
+Object 2:(0, 1)
+Object 1:(17, 51)
+
+
+Frame 30 : 
+-------- 
+Object 0:(40, -1)
+Object 2:(0, 2)
+Object 1:(17, 51)
+
+
+Frame 31 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(39, 1)
+Object 2:(0, 3)
+Object 1:(17, 51)
+
+
+Frame 32 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(38, 3)
+Object 2:(0, 4)
+Object 1:(17, 51)
+
+
+Frame 33 : 
+-------- 
+Object 3:(-10, 75)
+Object 0:(37, 5)
+Object 2:(0, 5)
+Object 1:(17, 51)
+
+
+Frame 34 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(36, 8)
+Object 2:(0, 6)
+Object 1:(17, 51)
+
+
+Frame 35 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(35, 10)
+Object 2:(1, 7)
+Object 1:(17, 51)
+
+
+Frame 36 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 12)
+Object 2:(1, 9)
+Object 1:(17, 51)
+
+
+Frame 37 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 14)
+Object 2:(1, 10)
+Object 1:(17, 51)
+
+
+Frame 38 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(33, 16)
+Object 2:(1, 11)
+Object 1:(17, 51)
+
+
+Frame 39 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(32, 18)
+Object 2:(1, 12)
+Object 1:(17, 51)
+
+
+Frame 40 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(31, 20)
+Object 2:(1, 13)
+Object 1:(17, 51)
+
+
+Frame 41 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(30, 22)
+Object 2:(2, 14)
+Object 1:(17, 51)
+
+
+Frame 42 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 24)
+Object 2:(2, 15)
+Object 1:(17, 51)
+
+
+Frame 43 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 26)
+Object 2:(2, 16)
+Object 1:(17, 51)
+
+
+Frame 44 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(28, 27)
+Object 2:(2, 17)
+Object 1:(17, 51)
+
+
+Frame 45 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(27, 29)
+Object 2:(2, 18)
+Object 1:(17, 51)
+
+
+Frame 46 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(26, 31)
+Object 2:(2, 19)
+Object 1:(17, 51)
+
+
+Frame 47 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(26, 32)
+Object 2:(2, 20)
+Object 1:(17, 51)
+
+
+Frame 48 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(25, 34)
+Object 2:(2, 21)
+Object 1:(17, 51)
+
+
+Frame 49 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 36)
+Object 2:(3, 22)
+Object 1:(17, 51)
+
+
+Frame 50 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 37)
+Object 2:(3, 23)
+Object 1:(17, 51)
+
+
+Frame 51 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(23, 39)
+Object 2:(3, 24)
+Object 1:(17, 51)
+
+
+Frame 52 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 40)
+Object 2:(3, 25)
+Object 1:(17, 51)
+
+
+Frame 53 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 42)
+Object 2:(3, 26)
+Object 1:(17, 51)
+
+
+Frame 54 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 43)
+Object 2:(3, 28)
+Object 1:(17, 52)
+
+
+Frame 55 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 44)
+Object 2:(3, 28)
+Object 1:(16, 52)
+
+
+Frame 56 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 45)
+Object 2:(4, 30)
+Object 1:(16, 53)
+
+
+Frame 57 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 46)
+Object 2:(4, 31)
+Object 1:(16, 53)
+
+
+Frame 58 : 
+-------- 
+Object 3:(-7, 72)
+Object 0:(20, 47)
+Object 2:(4, 32)
+Object 1:(15, 54)
+
+
+Frame 59 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(20, 47)
+Object 2:(4, 33)
+Object 1:(15, 54)
+
+
+Frame 60 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 48)
+Object 2:(4, 34)
+Object 1:(14, 55)
+
+
+Frame 61 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 49)
+Object 2:(4, 35)
+Object 1:(14, 56)
+
+
+Frame 62 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 36)
+Object 1:(14, 56)
+
+
+Frame 63 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 37)
+Object 1:(13, 57)
+
+
+Frame 64 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 51)
+Object 2:(5, 38)
+Object 1:(13, 57)
+
+
+Frame 65 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 39)
+Object 1:(13, 58)
+
+
+Frame 66 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 40)
+Object 1:(13, 58)
+
+
+Frame 67 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 53)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 68 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 54)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 69 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(17, 55)
+Object 2:(5, 42)
+Object 1:(11, 60)
+
+
+Frame 70 : 
+-------- 
+Object 3:(-4, 71)
+Object 0:(17, 55)
+Object 2:(5, 43)
+Object 1:(11, 60)
+
+
+Frame 71 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 56)
+Object 2:(5, 44)
+Object 1:(11, 61)
+
+
+Frame 72 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(5, 45)
+Object 1:(11, 61)
+
+
+Frame 73 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(6, 46)
+Object 1:(10, 61)
+
+
+Frame 74 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(16, 58)
+Object 2:(6, 47)
+Object 1:(10, 62)
+
+
+Frame 75 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 58)
+Object 2:(6, 48)
+Object 1:(10, 62)
+
+
+Frame 76 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 59)
+Object 2:(6, 49)
+Object 1:(9, 63)
+
+
+Frame 77 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 60)
+Object 2:(6, 50)
+Object 1:(9, 63)
+
+
+Frame 78 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(15, 60)
+Object 2:(6, 51)
+Object 1:(9, 64)
+
+
+Frame 79 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 61)
+Object 2:(6, 52)
+Object 1:(9, 64)
+
+
+Frame 80 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 53)
+Object 1:(9, 64)
+
+
+Frame 81 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 54)
+Object 1:(8, 65)
+
+
+Frame 82 : 
+-------- 
+Object 3:(-1, 70)
+Object 0:(15, 63)
+Object 2:(6, 55)
+Object 1:(8, 65)
+
+
+Frame 83 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(15, 64)
+Object 2:(7, 55)
+Object 1:(8, 66)
+
+
+Frame 84 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 64)
+Object 2:(7, 56)
+Object 1:(7, 66)
+
+
+Frame 85 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 86 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 87 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 66)
+Object 2:(7, 58)
+Object 1:(7, 68)
+
+
+Frame 88 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 58)
+Object 1:(7, 69)
+
+
+Frame 89 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 59)
+Object 1:(6, 70)
+
+
+Frame 90 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(7, 71)
+
+
+Frame 91 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(6, 72)
+
+
+Frame 92 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 72)
+
+
+Frame 93 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 73)
+
+
+Frame 94 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 74)
+
+
+Frame 95 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 75)
+
+
+Frame 96 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 71)
+Object 2:(8, 61)
+Object 1:(6, 76)
+
+
+Frame 97 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 76)
+
+
+Frame 98 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 77)
+
+
+Frame 99 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 73)
+Object 2:(8, 62)
+Object 1:(5, 78)
+
+
+Frame 100 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 73)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 101 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 102 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 80)
+
+
+Frame 103 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 75)
+Object 2:(8, 64)
+Object 1:(5, 81)
+
+
+Frame 104 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 75)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 105 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 106 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 83)
+
+
+Frame 107 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(5, 84)
+
+
+Frame 108 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(4, 84)
+
+
+Frame 109 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 78)
+Object 2:(9, 65)
+Object 1:(4, 85)
+
+
+Frame 110 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(9, 78)
+Object 2:(9, 64)
+Object 1:(4, 86)
+
+
+Frame 111 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 79)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 112 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 113 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 114 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 115 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(9, 64)
+Object 1:(4, 89)
+
+
+Frame 116 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(10, 64)
+Object 1:(4, 90)
+
+
+Frame 117 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 82)
+Object 2:(10, 64)
+Object 1:(3, 90)
+
+
+Frame 118 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 82)
+Object 2:(10, 64)
+Object 1:(3, 91)
+
+
+Frame 119 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(10, 64)
+Object 1:(3, 92)
+
+
+Frame 120 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 121 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 122 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 123 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 124 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 95)
+
+
+Frame 125 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(11, 64)
+Object 1:(2, 96)
+
+
+Frame 126 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(12, 64)
+Object 1:(2, 96)
+
+
+Frame 127 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 87)
+Object 2:(12, 63)
+Object 1:(2, 97)
+
+
+
+A collision is defined as the phenomenon where the difference between both the X and Y coordinates of both objects is less than 12 units.Based on the given data, answer the questions posed by the user.
+
+
+
+Question : How many blue objects enter the scene after the cube enters the scene?
+Question Type : descriptive
+Answer : 1
+GPT Answer : <api call here>
+
+
+
+System Prompt: Given below are the properties of certain objects in a JSON format. The properties include the color, shape, and material of the objects.
+
+[{'object_id': 0, 'color': 'brown', 'material': 'rubber', 'shape': 'sphere'}, {'object_id': 1, 'color': 'gray', 'material': 'metal', 'shape': 'sphere'}, {'object_id': 2, 'color': 'cyan', 'material': 'rubber', 'shape': 'cube'}, {'object_id': 3, 'color': 'blue', 'material': 'metal', 'shape': 'cylinder'}]
+
+The objects defined above are moving on an XY Cartesian plane and their individual X and Y coordinates have been recorded for every frame. These are provided below.
+
+
+Frame 0 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 1 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 2 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 3 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 4 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 5 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 6 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 7 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 8 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 9 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 10 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 11 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 12 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 13 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 14 : 
+-------- 
+Object 2:(-1, -10)
+Object 1:(17, 51)
+
+
+Frame 15 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 16 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 17 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 18 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 19 : 
+-------- 
+Object 2:(-1, -7)
+Object 1:(17, 51)
+
+
+Frame 20 : 
+-------- 
+Object 2:(0, -7)
+Object 1:(17, 51)
+
+
+Frame 21 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 22 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 23 : 
+-------- 
+Object 2:(0, -4)
+Object 1:(17, 51)
+
+
+Frame 24 : 
+-------- 
+Object 0:(47, -10)
+Object 2:(0, -3)
+Object 1:(17, 51)
+
+
+Frame 25 : 
+-------- 
+Object 0:(46, -9)
+Object 2:(0, -2)
+Object 1:(17, 51)
+
+
+Frame 26 : 
+-------- 
+Object 0:(45, -8)
+Object 2:(0, -1)
+Object 1:(17, 51)
+
+
+Frame 27 : 
+-------- 
+Object 0:(43, -6)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 28 : 
+-------- 
+Object 0:(42, -5)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 29 : 
+-------- 
+Object 0:(41, -3)
+Object 2:(0, 1)
+Object 1:(17, 51)
+
+
+Frame 30 : 
+-------- 
+Object 0:(40, -1)
+Object 2:(0, 2)
+Object 1:(17, 51)
+
+
+Frame 31 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(39, 1)
+Object 2:(0, 3)
+Object 1:(17, 51)
+
+
+Frame 32 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(38, 3)
+Object 2:(0, 4)
+Object 1:(17, 51)
+
+
+Frame 33 : 
+-------- 
+Object 3:(-10, 75)
+Object 0:(37, 5)
+Object 2:(0, 5)
+Object 1:(17, 51)
+
+
+Frame 34 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(36, 8)
+Object 2:(0, 6)
+Object 1:(17, 51)
+
+
+Frame 35 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(35, 10)
+Object 2:(1, 7)
+Object 1:(17, 51)
+
+
+Frame 36 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 12)
+Object 2:(1, 9)
+Object 1:(17, 51)
+
+
+Frame 37 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 14)
+Object 2:(1, 10)
+Object 1:(17, 51)
+
+
+Frame 38 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(33, 16)
+Object 2:(1, 11)
+Object 1:(17, 51)
+
+
+Frame 39 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(32, 18)
+Object 2:(1, 12)
+Object 1:(17, 51)
+
+
+Frame 40 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(31, 20)
+Object 2:(1, 13)
+Object 1:(17, 51)
+
+
+Frame 41 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(30, 22)
+Object 2:(2, 14)
+Object 1:(17, 51)
+
+
+Frame 42 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 24)
+Object 2:(2, 15)
+Object 1:(17, 51)
+
+
+Frame 43 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 26)
+Object 2:(2, 16)
+Object 1:(17, 51)
+
+
+Frame 44 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(28, 27)
+Object 2:(2, 17)
+Object 1:(17, 51)
+
+
+Frame 45 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(27, 29)
+Object 2:(2, 18)
+Object 1:(17, 51)
+
+
+Frame 46 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(26, 31)
+Object 2:(2, 19)
+Object 1:(17, 51)
+
+
+Frame 47 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(26, 32)
+Object 2:(2, 20)
+Object 1:(17, 51)
+
+
+Frame 48 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(25, 34)
+Object 2:(2, 21)
+Object 1:(17, 51)
+
+
+Frame 49 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 36)
+Object 2:(3, 22)
+Object 1:(17, 51)
+
+
+Frame 50 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 37)
+Object 2:(3, 23)
+Object 1:(17, 51)
+
+
+Frame 51 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(23, 39)
+Object 2:(3, 24)
+Object 1:(17, 51)
+
+
+Frame 52 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 40)
+Object 2:(3, 25)
+Object 1:(17, 51)
+
+
+Frame 53 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 42)
+Object 2:(3, 26)
+Object 1:(17, 51)
+
+
+Frame 54 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 43)
+Object 2:(3, 28)
+Object 1:(17, 52)
+
+
+Frame 55 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 44)
+Object 2:(3, 28)
+Object 1:(16, 52)
+
+
+Frame 56 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 45)
+Object 2:(4, 30)
+Object 1:(16, 53)
+
+
+Frame 57 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 46)
+Object 2:(4, 31)
+Object 1:(16, 53)
+
+
+Frame 58 : 
+-------- 
+Object 3:(-7, 72)
+Object 0:(20, 47)
+Object 2:(4, 32)
+Object 1:(15, 54)
+
+
+Frame 59 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(20, 47)
+Object 2:(4, 33)
+Object 1:(15, 54)
+
+
+Frame 60 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 48)
+Object 2:(4, 34)
+Object 1:(14, 55)
+
+
+Frame 61 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 49)
+Object 2:(4, 35)
+Object 1:(14, 56)
+
+
+Frame 62 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 36)
+Object 1:(14, 56)
+
+
+Frame 63 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 37)
+Object 1:(13, 57)
+
+
+Frame 64 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 51)
+Object 2:(5, 38)
+Object 1:(13, 57)
+
+
+Frame 65 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 39)
+Object 1:(13, 58)
+
+
+Frame 66 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 40)
+Object 1:(13, 58)
+
+
+Frame 67 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 53)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 68 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 54)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 69 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(17, 55)
+Object 2:(5, 42)
+Object 1:(11, 60)
+
+
+Frame 70 : 
+-------- 
+Object 3:(-4, 71)
+Object 0:(17, 55)
+Object 2:(5, 43)
+Object 1:(11, 60)
+
+
+Frame 71 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 56)
+Object 2:(5, 44)
+Object 1:(11, 61)
+
+
+Frame 72 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(5, 45)
+Object 1:(11, 61)
+
+
+Frame 73 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(6, 46)
+Object 1:(10, 61)
+
+
+Frame 74 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(16, 58)
+Object 2:(6, 47)
+Object 1:(10, 62)
+
+
+Frame 75 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 58)
+Object 2:(6, 48)
+Object 1:(10, 62)
+
+
+Frame 76 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 59)
+Object 2:(6, 49)
+Object 1:(9, 63)
+
+
+Frame 77 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 60)
+Object 2:(6, 50)
+Object 1:(9, 63)
+
+
+Frame 78 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(15, 60)
+Object 2:(6, 51)
+Object 1:(9, 64)
+
+
+Frame 79 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 61)
+Object 2:(6, 52)
+Object 1:(9, 64)
+
+
+Frame 80 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 53)
+Object 1:(9, 64)
+
+
+Frame 81 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 54)
+Object 1:(8, 65)
+
+
+Frame 82 : 
+-------- 
+Object 3:(-1, 70)
+Object 0:(15, 63)
+Object 2:(6, 55)
+Object 1:(8, 65)
+
+
+Frame 83 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(15, 64)
+Object 2:(7, 55)
+Object 1:(8, 66)
+
+
+Frame 84 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 64)
+Object 2:(7, 56)
+Object 1:(7, 66)
+
+
+Frame 85 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 86 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 87 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 66)
+Object 2:(7, 58)
+Object 1:(7, 68)
+
+
+Frame 88 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 58)
+Object 1:(7, 69)
+
+
+Frame 89 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 59)
+Object 1:(6, 70)
+
+
+Frame 90 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(7, 71)
+
+
+Frame 91 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(6, 72)
+
+
+Frame 92 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 72)
+
+
+Frame 93 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 73)
+
+
+Frame 94 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 74)
+
+
+Frame 95 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 75)
+
+
+Frame 96 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 71)
+Object 2:(8, 61)
+Object 1:(6, 76)
+
+
+Frame 97 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 76)
+
+
+Frame 98 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 77)
+
+
+Frame 99 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 73)
+Object 2:(8, 62)
+Object 1:(5, 78)
+
+
+Frame 100 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 73)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 101 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 102 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 80)
+
+
+Frame 103 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 75)
+Object 2:(8, 64)
+Object 1:(5, 81)
+
+
+Frame 104 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 75)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 105 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 106 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 83)
+
+
+Frame 107 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(5, 84)
+
+
+Frame 108 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(4, 84)
+
+
+Frame 109 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 78)
+Object 2:(9, 65)
+Object 1:(4, 85)
+
+
+Frame 110 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(9, 78)
+Object 2:(9, 64)
+Object 1:(4, 86)
+
+
+Frame 111 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 79)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 112 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 113 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 114 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 115 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(9, 64)
+Object 1:(4, 89)
+
+
+Frame 116 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(10, 64)
+Object 1:(4, 90)
+
+
+Frame 117 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 82)
+Object 2:(10, 64)
+Object 1:(3, 90)
+
+
+Frame 118 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 82)
+Object 2:(10, 64)
+Object 1:(3, 91)
+
+
+Frame 119 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(10, 64)
+Object 1:(3, 92)
+
+
+Frame 120 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 121 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 122 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 123 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 124 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 95)
+
+
+Frame 125 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(11, 64)
+Object 1:(2, 96)
+
+
+Frame 126 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(12, 64)
+Object 1:(2, 96)
+
+
+Frame 127 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 87)
+Object 2:(12, 63)
+Object 1:(2, 97)
+
+
+
+A collision is defined as the phenomenon where the difference between both the X and Y coordinates of both objects is less than 12 units.Based on the given data, answer the questions posed by the user.
+
+
+
+Question : Which of the following is responsible for the collision between the metal sphere and the cube?
+Choice 0 : the cylinder's entrance
+Choice 1 : the brown object's entrance
+Choice 2 : the cube's colliding with the cylinder
+Choice 3 : the presence of the brown rubber sphere
+
+Question Type : explanatory
+Answer : 1,3
+GPT Answer : <api call here>
+
+
+
+System Prompt: Given below are the properties of certain objects in a JSON format. The properties include the color, shape, and material of the objects.
+
+[{'object_id': 0, 'color': 'brown', 'material': 'rubber', 'shape': 'sphere'}, {'object_id': 1, 'color': 'gray', 'material': 'metal', 'shape': 'sphere'}, {'object_id': 2, 'color': 'cyan', 'material': 'rubber', 'shape': 'cube'}, {'object_id': 3, 'color': 'blue', 'material': 'metal', 'shape': 'cylinder'}]
+
+The objects defined above are moving on an XY Cartesian plane and their individual X and Y coordinates have been recorded for every frame. These are provided below.
+
+
+Frame 0 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 1 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 2 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 3 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 4 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 5 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 6 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 7 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 8 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 9 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 10 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 11 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 12 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 13 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 14 : 
+-------- 
+Object 2:(-1, -10)
+Object 1:(17, 51)
+
+
+Frame 15 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 16 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 17 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 18 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 19 : 
+-------- 
+Object 2:(-1, -7)
+Object 1:(17, 51)
+
+
+Frame 20 : 
+-------- 
+Object 2:(0, -7)
+Object 1:(17, 51)
+
+
+Frame 21 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 22 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 23 : 
+-------- 
+Object 2:(0, -4)
+Object 1:(17, 51)
+
+
+Frame 24 : 
+-------- 
+Object 0:(47, -10)
+Object 2:(0, -3)
+Object 1:(17, 51)
+
+
+Frame 25 : 
+-------- 
+Object 0:(46, -9)
+Object 2:(0, -2)
+Object 1:(17, 51)
+
+
+Frame 26 : 
+-------- 
+Object 0:(45, -8)
+Object 2:(0, -1)
+Object 1:(17, 51)
+
+
+Frame 27 : 
+-------- 
+Object 0:(43, -6)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 28 : 
+-------- 
+Object 0:(42, -5)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 29 : 
+-------- 
+Object 0:(41, -3)
+Object 2:(0, 1)
+Object 1:(17, 51)
+
+
+Frame 30 : 
+-------- 
+Object 0:(40, -1)
+Object 2:(0, 2)
+Object 1:(17, 51)
+
+
+Frame 31 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(39, 1)
+Object 2:(0, 3)
+Object 1:(17, 51)
+
+
+Frame 32 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(38, 3)
+Object 2:(0, 4)
+Object 1:(17, 51)
+
+
+Frame 33 : 
+-------- 
+Object 3:(-10, 75)
+Object 0:(37, 5)
+Object 2:(0, 5)
+Object 1:(17, 51)
+
+
+Frame 34 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(36, 8)
+Object 2:(0, 6)
+Object 1:(17, 51)
+
+
+Frame 35 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(35, 10)
+Object 2:(1, 7)
+Object 1:(17, 51)
+
+
+Frame 36 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 12)
+Object 2:(1, 9)
+Object 1:(17, 51)
+
+
+Frame 37 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 14)
+Object 2:(1, 10)
+Object 1:(17, 51)
+
+
+Frame 38 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(33, 16)
+Object 2:(1, 11)
+Object 1:(17, 51)
+
+
+Frame 39 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(32, 18)
+Object 2:(1, 12)
+Object 1:(17, 51)
+
+
+Frame 40 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(31, 20)
+Object 2:(1, 13)
+Object 1:(17, 51)
+
+
+Frame 41 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(30, 22)
+Object 2:(2, 14)
+Object 1:(17, 51)
+
+
+Frame 42 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 24)
+Object 2:(2, 15)
+Object 1:(17, 51)
+
+
+Frame 43 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 26)
+Object 2:(2, 16)
+Object 1:(17, 51)
+
+
+Frame 44 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(28, 27)
+Object 2:(2, 17)
+Object 1:(17, 51)
+
+
+Frame 45 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(27, 29)
+Object 2:(2, 18)
+Object 1:(17, 51)
+
+
+Frame 46 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(26, 31)
+Object 2:(2, 19)
+Object 1:(17, 51)
+
+
+Frame 47 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(26, 32)
+Object 2:(2, 20)
+Object 1:(17, 51)
+
+
+Frame 48 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(25, 34)
+Object 2:(2, 21)
+Object 1:(17, 51)
+
+
+Frame 49 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 36)
+Object 2:(3, 22)
+Object 1:(17, 51)
+
+
+Frame 50 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 37)
+Object 2:(3, 23)
+Object 1:(17, 51)
+
+
+Frame 51 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(23, 39)
+Object 2:(3, 24)
+Object 1:(17, 51)
+
+
+Frame 52 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 40)
+Object 2:(3, 25)
+Object 1:(17, 51)
+
+
+Frame 53 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 42)
+Object 2:(3, 26)
+Object 1:(17, 51)
+
+
+Frame 54 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 43)
+Object 2:(3, 28)
+Object 1:(17, 52)
+
+
+Frame 55 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 44)
+Object 2:(3, 28)
+Object 1:(16, 52)
+
+
+Frame 56 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 45)
+Object 2:(4, 30)
+Object 1:(16, 53)
+
+
+Frame 57 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 46)
+Object 2:(4, 31)
+Object 1:(16, 53)
+
+
+Frame 58 : 
+-------- 
+Object 3:(-7, 72)
+Object 0:(20, 47)
+Object 2:(4, 32)
+Object 1:(15, 54)
+
+
+Frame 59 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(20, 47)
+Object 2:(4, 33)
+Object 1:(15, 54)
+
+
+Frame 60 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 48)
+Object 2:(4, 34)
+Object 1:(14, 55)
+
+
+Frame 61 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 49)
+Object 2:(4, 35)
+Object 1:(14, 56)
+
+
+Frame 62 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 36)
+Object 1:(14, 56)
+
+
+Frame 63 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 37)
+Object 1:(13, 57)
+
+
+Frame 64 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 51)
+Object 2:(5, 38)
+Object 1:(13, 57)
+
+
+Frame 65 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 39)
+Object 1:(13, 58)
+
+
+Frame 66 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 40)
+Object 1:(13, 58)
+
+
+Frame 67 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 53)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 68 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 54)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 69 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(17, 55)
+Object 2:(5, 42)
+Object 1:(11, 60)
+
+
+Frame 70 : 
+-------- 
+Object 3:(-4, 71)
+Object 0:(17, 55)
+Object 2:(5, 43)
+Object 1:(11, 60)
+
+
+Frame 71 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 56)
+Object 2:(5, 44)
+Object 1:(11, 61)
+
+
+Frame 72 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(5, 45)
+Object 1:(11, 61)
+
+
+Frame 73 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(6, 46)
+Object 1:(10, 61)
+
+
+Frame 74 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(16, 58)
+Object 2:(6, 47)
+Object 1:(10, 62)
+
+
+Frame 75 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 58)
+Object 2:(6, 48)
+Object 1:(10, 62)
+
+
+Frame 76 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 59)
+Object 2:(6, 49)
+Object 1:(9, 63)
+
+
+Frame 77 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 60)
+Object 2:(6, 50)
+Object 1:(9, 63)
+
+
+Frame 78 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(15, 60)
+Object 2:(6, 51)
+Object 1:(9, 64)
+
+
+Frame 79 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 61)
+Object 2:(6, 52)
+Object 1:(9, 64)
+
+
+Frame 80 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 53)
+Object 1:(9, 64)
+
+
+Frame 81 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 54)
+Object 1:(8, 65)
+
+
+Frame 82 : 
+-------- 
+Object 3:(-1, 70)
+Object 0:(15, 63)
+Object 2:(6, 55)
+Object 1:(8, 65)
+
+
+Frame 83 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(15, 64)
+Object 2:(7, 55)
+Object 1:(8, 66)
+
+
+Frame 84 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 64)
+Object 2:(7, 56)
+Object 1:(7, 66)
+
+
+Frame 85 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 86 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 87 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 66)
+Object 2:(7, 58)
+Object 1:(7, 68)
+
+
+Frame 88 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 58)
+Object 1:(7, 69)
+
+
+Frame 89 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 59)
+Object 1:(6, 70)
+
+
+Frame 90 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(7, 71)
+
+
+Frame 91 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(6, 72)
+
+
+Frame 92 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 72)
+
+
+Frame 93 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 73)
+
+
+Frame 94 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 74)
+
+
+Frame 95 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 75)
+
+
+Frame 96 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 71)
+Object 2:(8, 61)
+Object 1:(6, 76)
+
+
+Frame 97 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 76)
+
+
+Frame 98 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 77)
+
+
+Frame 99 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 73)
+Object 2:(8, 62)
+Object 1:(5, 78)
+
+
+Frame 100 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 73)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 101 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 102 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 80)
+
+
+Frame 103 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 75)
+Object 2:(8, 64)
+Object 1:(5, 81)
+
+
+Frame 104 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 75)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 105 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 106 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 83)
+
+
+Frame 107 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(5, 84)
+
+
+Frame 108 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(4, 84)
+
+
+Frame 109 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 78)
+Object 2:(9, 65)
+Object 1:(4, 85)
+
+
+Frame 110 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(9, 78)
+Object 2:(9, 64)
+Object 1:(4, 86)
+
+
+Frame 111 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 79)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 112 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 113 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 114 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 115 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(9, 64)
+Object 1:(4, 89)
+
+
+Frame 116 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(10, 64)
+Object 1:(4, 90)
+
+
+Frame 117 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 82)
+Object 2:(10, 64)
+Object 1:(3, 90)
+
+
+Frame 118 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 82)
+Object 2:(10, 64)
+Object 1:(3, 91)
+
+
+Frame 119 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(10, 64)
+Object 1:(3, 92)
+
+
+Frame 120 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 121 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 122 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 123 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 124 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 95)
+
+
+Frame 125 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(11, 64)
+Object 1:(2, 96)
+
+
+Frame 126 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(12, 64)
+Object 1:(2, 96)
+
+
+Frame 127 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 87)
+Object 2:(12, 63)
+Object 1:(2, 97)
+
+
+
+A collision is defined as the phenomenon where the difference between both the X and Y coordinates of both objects is less than 12 units.Based on the given data, answer the questions posed by the user.
+
+
+
+Question : Which of the following is not responsible for the collision between the cube and the cylinder?
+Choice 0 : the collision between the gray object and the cube
+Choice 1 : the brown sphere's colliding with the metal sphere
+Choice 2 : the rubber sphere's entrance
+
+Question Type : explanatory
+Answer : 
+GPT Answer : <api call here>
+
+
+
+System Prompt: Given below are the properties of certain objects in a JSON format. The properties include the color, shape, and material of the objects.
+
+[{'object_id': 0, 'color': 'brown', 'material': 'rubber', 'shape': 'sphere'}, {'object_id': 1, 'color': 'gray', 'material': 'metal', 'shape': 'sphere'}, {'object_id': 2, 'color': 'cyan', 'material': 'rubber', 'shape': 'cube'}, {'object_id': 3, 'color': 'blue', 'material': 'metal', 'shape': 'cylinder'}]
+
+The objects defined above are moving on an XY Cartesian plane and their individual X and Y coordinates have been recorded for every frame. These are provided below.
+
+
+Frame 0 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 1 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 2 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 3 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 4 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 5 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 6 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 7 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 8 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 9 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 10 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 11 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 12 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 13 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 14 : 
+-------- 
+Object 2:(-1, -10)
+Object 1:(17, 51)
+
+
+Frame 15 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 16 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 17 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 18 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 19 : 
+-------- 
+Object 2:(-1, -7)
+Object 1:(17, 51)
+
+
+Frame 20 : 
+-------- 
+Object 2:(0, -7)
+Object 1:(17, 51)
+
+
+Frame 21 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 22 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 23 : 
+-------- 
+Object 2:(0, -4)
+Object 1:(17, 51)
+
+
+Frame 24 : 
+-------- 
+Object 0:(47, -10)
+Object 2:(0, -3)
+Object 1:(17, 51)
+
+
+Frame 25 : 
+-------- 
+Object 0:(46, -9)
+Object 2:(0, -2)
+Object 1:(17, 51)
+
+
+Frame 26 : 
+-------- 
+Object 0:(45, -8)
+Object 2:(0, -1)
+Object 1:(17, 51)
+
+
+Frame 27 : 
+-------- 
+Object 0:(43, -6)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 28 : 
+-------- 
+Object 0:(42, -5)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 29 : 
+-------- 
+Object 0:(41, -3)
+Object 2:(0, 1)
+Object 1:(17, 51)
+
+
+Frame 30 : 
+-------- 
+Object 0:(40, -1)
+Object 2:(0, 2)
+Object 1:(17, 51)
+
+
+Frame 31 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(39, 1)
+Object 2:(0, 3)
+Object 1:(17, 51)
+
+
+Frame 32 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(38, 3)
+Object 2:(0, 4)
+Object 1:(17, 51)
+
+
+Frame 33 : 
+-------- 
+Object 3:(-10, 75)
+Object 0:(37, 5)
+Object 2:(0, 5)
+Object 1:(17, 51)
+
+
+Frame 34 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(36, 8)
+Object 2:(0, 6)
+Object 1:(17, 51)
+
+
+Frame 35 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(35, 10)
+Object 2:(1, 7)
+Object 1:(17, 51)
+
+
+Frame 36 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 12)
+Object 2:(1, 9)
+Object 1:(17, 51)
+
+
+Frame 37 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 14)
+Object 2:(1, 10)
+Object 1:(17, 51)
+
+
+Frame 38 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(33, 16)
+Object 2:(1, 11)
+Object 1:(17, 51)
+
+
+Frame 39 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(32, 18)
+Object 2:(1, 12)
+Object 1:(17, 51)
+
+
+Frame 40 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(31, 20)
+Object 2:(1, 13)
+Object 1:(17, 51)
+
+
+Frame 41 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(30, 22)
+Object 2:(2, 14)
+Object 1:(17, 51)
+
+
+Frame 42 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 24)
+Object 2:(2, 15)
+Object 1:(17, 51)
+
+
+Frame 43 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 26)
+Object 2:(2, 16)
+Object 1:(17, 51)
+
+
+Frame 44 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(28, 27)
+Object 2:(2, 17)
+Object 1:(17, 51)
+
+
+Frame 45 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(27, 29)
+Object 2:(2, 18)
+Object 1:(17, 51)
+
+
+Frame 46 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(26, 31)
+Object 2:(2, 19)
+Object 1:(17, 51)
+
+
+Frame 47 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(26, 32)
+Object 2:(2, 20)
+Object 1:(17, 51)
+
+
+Frame 48 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(25, 34)
+Object 2:(2, 21)
+Object 1:(17, 51)
+
+
+Frame 49 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 36)
+Object 2:(3, 22)
+Object 1:(17, 51)
+
+
+Frame 50 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 37)
+Object 2:(3, 23)
+Object 1:(17, 51)
+
+
+Frame 51 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(23, 39)
+Object 2:(3, 24)
+Object 1:(17, 51)
+
+
+Frame 52 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 40)
+Object 2:(3, 25)
+Object 1:(17, 51)
+
+
+Frame 53 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 42)
+Object 2:(3, 26)
+Object 1:(17, 51)
+
+
+Frame 54 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 43)
+Object 2:(3, 28)
+Object 1:(17, 52)
+
+
+Frame 55 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 44)
+Object 2:(3, 28)
+Object 1:(16, 52)
+
+
+Frame 56 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 45)
+Object 2:(4, 30)
+Object 1:(16, 53)
+
+
+Frame 57 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 46)
+Object 2:(4, 31)
+Object 1:(16, 53)
+
+
+Frame 58 : 
+-------- 
+Object 3:(-7, 72)
+Object 0:(20, 47)
+Object 2:(4, 32)
+Object 1:(15, 54)
+
+
+Frame 59 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(20, 47)
+Object 2:(4, 33)
+Object 1:(15, 54)
+
+
+Frame 60 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 48)
+Object 2:(4, 34)
+Object 1:(14, 55)
+
+
+Frame 61 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 49)
+Object 2:(4, 35)
+Object 1:(14, 56)
+
+
+Frame 62 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 36)
+Object 1:(14, 56)
+
+
+Frame 63 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 37)
+Object 1:(13, 57)
+
+
+Frame 64 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 51)
+Object 2:(5, 38)
+Object 1:(13, 57)
+
+
+Frame 65 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 39)
+Object 1:(13, 58)
+
+
+Frame 66 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 40)
+Object 1:(13, 58)
+
+
+Frame 67 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 53)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 68 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 54)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 69 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(17, 55)
+Object 2:(5, 42)
+Object 1:(11, 60)
+
+
+Frame 70 : 
+-------- 
+Object 3:(-4, 71)
+Object 0:(17, 55)
+Object 2:(5, 43)
+Object 1:(11, 60)
+
+
+Frame 71 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 56)
+Object 2:(5, 44)
+Object 1:(11, 61)
+
+
+Frame 72 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(5, 45)
+Object 1:(11, 61)
+
+
+Frame 73 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(6, 46)
+Object 1:(10, 61)
+
+
+Frame 74 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(16, 58)
+Object 2:(6, 47)
+Object 1:(10, 62)
+
+
+Frame 75 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 58)
+Object 2:(6, 48)
+Object 1:(10, 62)
+
+
+Frame 76 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 59)
+Object 2:(6, 49)
+Object 1:(9, 63)
+
+
+Frame 77 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 60)
+Object 2:(6, 50)
+Object 1:(9, 63)
+
+
+Frame 78 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(15, 60)
+Object 2:(6, 51)
+Object 1:(9, 64)
+
+
+Frame 79 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 61)
+Object 2:(6, 52)
+Object 1:(9, 64)
+
+
+Frame 80 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 53)
+Object 1:(9, 64)
+
+
+Frame 81 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 54)
+Object 1:(8, 65)
+
+
+Frame 82 : 
+-------- 
+Object 3:(-1, 70)
+Object 0:(15, 63)
+Object 2:(6, 55)
+Object 1:(8, 65)
+
+
+Frame 83 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(15, 64)
+Object 2:(7, 55)
+Object 1:(8, 66)
+
+
+Frame 84 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 64)
+Object 2:(7, 56)
+Object 1:(7, 66)
+
+
+Frame 85 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 86 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 87 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 66)
+Object 2:(7, 58)
+Object 1:(7, 68)
+
+
+Frame 88 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 58)
+Object 1:(7, 69)
+
+
+Frame 89 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 59)
+Object 1:(6, 70)
+
+
+Frame 90 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(7, 71)
+
+
+Frame 91 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(6, 72)
+
+
+Frame 92 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 72)
+
+
+Frame 93 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 73)
+
+
+Frame 94 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 74)
+
+
+Frame 95 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 75)
+
+
+Frame 96 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 71)
+Object 2:(8, 61)
+Object 1:(6, 76)
+
+
+Frame 97 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 76)
+
+
+Frame 98 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 77)
+
+
+Frame 99 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 73)
+Object 2:(8, 62)
+Object 1:(5, 78)
+
+
+Frame 100 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 73)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 101 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 102 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 80)
+
+
+Frame 103 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 75)
+Object 2:(8, 64)
+Object 1:(5, 81)
+
+
+Frame 104 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 75)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 105 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 106 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 83)
+
+
+Frame 107 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(5, 84)
+
+
+Frame 108 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(4, 84)
+
+
+Frame 109 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 78)
+Object 2:(9, 65)
+Object 1:(4, 85)
+
+
+Frame 110 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(9, 78)
+Object 2:(9, 64)
+Object 1:(4, 86)
+
+
+Frame 111 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 79)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 112 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 113 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 114 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 115 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(9, 64)
+Object 1:(4, 89)
+
+
+Frame 116 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(10, 64)
+Object 1:(4, 90)
+
+
+Frame 117 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 82)
+Object 2:(10, 64)
+Object 1:(3, 90)
+
+
+Frame 118 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 82)
+Object 2:(10, 64)
+Object 1:(3, 91)
+
+
+Frame 119 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(10, 64)
+Object 1:(3, 92)
+
+
+Frame 120 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 121 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 122 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 123 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 124 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 95)
+
+
+Frame 125 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(11, 64)
+Object 1:(2, 96)
+
+
+Frame 126 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(12, 64)
+Object 1:(2, 96)
+
+
+Frame 127 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 87)
+Object 2:(12, 63)
+Object 1:(2, 97)
+
+
+
+A collision is defined as the phenomenon where the difference between both the X and Y coordinates of both objects is less than 12 units.Based on the given data, answer the questions posed by the user.
+
+
+
+Question : Without the cube, which event will happen?
+Choice 0 : The rubber sphere collides with the cylinder
+Choice 1 : The brown object collides with the gray sphere
+Choice 2 : The brown object and the gray object collide
+Choice 3 : The metal sphere and the cylinder collide
+
+Question Type : counterfactual
+Answer : 1,2,3
+GPT Answer : <api call here>
+
+
+
+System Prompt: Given below are the properties of certain objects in a JSON format. The properties include the color, shape, and material of the objects.
+
+[{'object_id': 0, 'color': 'brown', 'material': 'rubber', 'shape': 'sphere'}, {'object_id': 1, 'color': 'gray', 'material': 'metal', 'shape': 'sphere'}, {'object_id': 2, 'color': 'cyan', 'material': 'rubber', 'shape': 'cube'}, {'object_id': 3, 'color': 'blue', 'material': 'metal', 'shape': 'cylinder'}]
+
+The objects defined above are moving on an XY Cartesian plane and their individual X and Y coordinates have been recorded for every frame. These are provided below.
+
+
+Frame 0 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 1 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 2 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 3 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 4 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 5 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 6 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 7 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 8 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 9 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 10 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 11 : 
+-------- 
+Object 1:(17, 51)
+
+
+Frame 12 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 13 : 
+-------- 
+Object X:(-1, -11)
+Object 1:(17, 51)
+
+
+Frame 14 : 
+-------- 
+Object 2:(-1, -10)
+Object 1:(17, 51)
+
+
+Frame 15 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 16 : 
+-------- 
+Object 2:(-1, -9)
+Object 1:(17, 51)
+
+
+Frame 17 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 18 : 
+-------- 
+Object 2:(-1, -8)
+Object 1:(17, 51)
+
+
+Frame 19 : 
+-------- 
+Object 2:(-1, -7)
+Object 1:(17, 51)
+
+
+Frame 20 : 
+-------- 
+Object 2:(0, -7)
+Object 1:(17, 51)
+
+
+Frame 21 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 22 : 
+-------- 
+Object 2:(0, -6)
+Object 1:(17, 51)
+
+
+Frame 23 : 
+-------- 
+Object 2:(0, -4)
+Object 1:(17, 51)
+
+
+Frame 24 : 
+-------- 
+Object 0:(47, -10)
+Object 2:(0, -3)
+Object 1:(17, 51)
+
+
+Frame 25 : 
+-------- 
+Object 0:(46, -9)
+Object 2:(0, -2)
+Object 1:(17, 51)
+
+
+Frame 26 : 
+-------- 
+Object 0:(45, -8)
+Object 2:(0, -1)
+Object 1:(17, 51)
+
+
+Frame 27 : 
+-------- 
+Object 0:(43, -6)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 28 : 
+-------- 
+Object 0:(42, -5)
+Object 2:(0, 0)
+Object 1:(17, 51)
+
+
+Frame 29 : 
+-------- 
+Object 0:(41, -3)
+Object 2:(0, 1)
+Object 1:(17, 51)
+
+
+Frame 30 : 
+-------- 
+Object 0:(40, -1)
+Object 2:(0, 2)
+Object 1:(17, 51)
+
+
+Frame 31 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(39, 1)
+Object 2:(0, 3)
+Object 1:(17, 51)
+
+
+Frame 32 : 
+-------- 
+Object 3:(-11, 75)
+Object 0:(38, 3)
+Object 2:(0, 4)
+Object 1:(17, 51)
+
+
+Frame 33 : 
+-------- 
+Object 3:(-10, 75)
+Object 0:(37, 5)
+Object 2:(0, 5)
+Object 1:(17, 51)
+
+
+Frame 34 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(36, 8)
+Object 2:(0, 6)
+Object 1:(17, 51)
+
+
+Frame 35 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(35, 10)
+Object 2:(1, 7)
+Object 1:(17, 51)
+
+
+Frame 36 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 12)
+Object 2:(1, 9)
+Object 1:(17, 51)
+
+
+Frame 37 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(34, 14)
+Object 2:(1, 10)
+Object 1:(17, 51)
+
+
+Frame 38 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(33, 16)
+Object 2:(1, 11)
+Object 1:(17, 51)
+
+
+Frame 39 : 
+-------- 
+Object 3:(-10, 74)
+Object 0:(32, 18)
+Object 2:(1, 12)
+Object 1:(17, 51)
+
+
+Frame 40 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(31, 20)
+Object 2:(1, 13)
+Object 1:(17, 51)
+
+
+Frame 41 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(30, 22)
+Object 2:(2, 14)
+Object 1:(17, 51)
+
+
+Frame 42 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 24)
+Object 2:(2, 15)
+Object 1:(17, 51)
+
+
+Frame 43 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(29, 26)
+Object 2:(2, 16)
+Object 1:(17, 51)
+
+
+Frame 44 : 
+-------- 
+Object 3:(-9, 74)
+Object 0:(28, 27)
+Object 2:(2, 17)
+Object 1:(17, 51)
+
+
+Frame 45 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(27, 29)
+Object 2:(2, 18)
+Object 1:(17, 51)
+
+
+Frame 46 : 
+-------- 
+Object 3:(-9, 73)
+Object 0:(26, 31)
+Object 2:(2, 19)
+Object 1:(17, 51)
+
+
+Frame 47 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(26, 32)
+Object 2:(2, 20)
+Object 1:(17, 51)
+
+
+Frame 48 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(25, 34)
+Object 2:(2, 21)
+Object 1:(17, 51)
+
+
+Frame 49 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 36)
+Object 2:(3, 22)
+Object 1:(17, 51)
+
+
+Frame 50 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(24, 37)
+Object 2:(3, 23)
+Object 1:(17, 51)
+
+
+Frame 51 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(23, 39)
+Object 2:(3, 24)
+Object 1:(17, 51)
+
+
+Frame 52 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 40)
+Object 2:(3, 25)
+Object 1:(17, 51)
+
+
+Frame 53 : 
+-------- 
+Object 3:(-8, 73)
+Object 0:(22, 42)
+Object 2:(3, 26)
+Object 1:(17, 51)
+
+
+Frame 54 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 43)
+Object 2:(3, 28)
+Object 1:(17, 52)
+
+
+Frame 55 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(21, 44)
+Object 2:(3, 28)
+Object 1:(16, 52)
+
+
+Frame 56 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 45)
+Object 2:(4, 30)
+Object 1:(16, 53)
+
+
+Frame 57 : 
+-------- 
+Object 3:(-7, 73)
+Object 0:(20, 46)
+Object 2:(4, 31)
+Object 1:(16, 53)
+
+
+Frame 58 : 
+-------- 
+Object 3:(-7, 72)
+Object 0:(20, 47)
+Object 2:(4, 32)
+Object 1:(15, 54)
+
+
+Frame 59 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(20, 47)
+Object 2:(4, 33)
+Object 1:(15, 54)
+
+
+Frame 60 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 48)
+Object 2:(4, 34)
+Object 1:(14, 55)
+
+
+Frame 61 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 49)
+Object 2:(4, 35)
+Object 1:(14, 56)
+
+
+Frame 62 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 36)
+Object 1:(14, 56)
+
+
+Frame 63 : 
+-------- 
+Object 3:(-6, 72)
+Object 0:(19, 50)
+Object 2:(4, 37)
+Object 1:(13, 57)
+
+
+Frame 64 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 51)
+Object 2:(5, 38)
+Object 1:(13, 57)
+
+
+Frame 65 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 39)
+Object 1:(13, 58)
+
+
+Frame 66 : 
+-------- 
+Object 3:(-5, 72)
+Object 0:(18, 52)
+Object 2:(5, 40)
+Object 1:(13, 58)
+
+
+Frame 67 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 53)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 68 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(18, 54)
+Object 2:(5, 41)
+Object 1:(12, 59)
+
+
+Frame 69 : 
+-------- 
+Object 3:(-4, 72)
+Object 0:(17, 55)
+Object 2:(5, 42)
+Object 1:(11, 60)
+
+
+Frame 70 : 
+-------- 
+Object 3:(-4, 71)
+Object 0:(17, 55)
+Object 2:(5, 43)
+Object 1:(11, 60)
+
+
+Frame 71 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 56)
+Object 2:(5, 44)
+Object 1:(11, 61)
+
+
+Frame 72 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(5, 45)
+Object 1:(11, 61)
+
+
+Frame 73 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(17, 57)
+Object 2:(6, 46)
+Object 1:(10, 61)
+
+
+Frame 74 : 
+-------- 
+Object 3:(-3, 71)
+Object 0:(16, 58)
+Object 2:(6, 47)
+Object 1:(10, 62)
+
+
+Frame 75 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 58)
+Object 2:(6, 48)
+Object 1:(10, 62)
+
+
+Frame 76 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 59)
+Object 2:(6, 49)
+Object 1:(9, 63)
+
+
+Frame 77 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(16, 60)
+Object 2:(6, 50)
+Object 1:(9, 63)
+
+
+Frame 78 : 
+-------- 
+Object 3:(-2, 71)
+Object 0:(15, 60)
+Object 2:(6, 51)
+Object 1:(9, 64)
+
+
+Frame 79 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 61)
+Object 2:(6, 52)
+Object 1:(9, 64)
+
+
+Frame 80 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 53)
+Object 1:(9, 64)
+
+
+Frame 81 : 
+-------- 
+Object 3:(-1, 71)
+Object 0:(15, 62)
+Object 2:(6, 54)
+Object 1:(8, 65)
+
+
+Frame 82 : 
+-------- 
+Object 3:(-1, 70)
+Object 0:(15, 63)
+Object 2:(6, 55)
+Object 1:(8, 65)
+
+
+Frame 83 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(15, 64)
+Object 2:(7, 55)
+Object 1:(8, 66)
+
+
+Frame 84 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 64)
+Object 2:(7, 56)
+Object 1:(7, 66)
+
+
+Frame 85 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 86 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 65)
+Object 2:(7, 57)
+Object 1:(7, 67)
+
+
+Frame 87 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(14, 66)
+Object 2:(7, 58)
+Object 1:(7, 68)
+
+
+Frame 88 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 58)
+Object 1:(7, 69)
+
+
+Frame 89 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 67)
+Object 2:(7, 59)
+Object 1:(6, 70)
+
+
+Frame 90 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(7, 71)
+
+
+Frame 91 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 68)
+Object 2:(7, 59)
+Object 1:(6, 72)
+
+
+Frame 92 : 
+-------- 
+Object 3:(0, 70)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 72)
+
+
+Frame 93 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(13, 69)
+Object 2:(7, 60)
+Object 1:(6, 73)
+
+
+Frame 94 : 
+-------- 
+Object 3:(0, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 74)
+
+
+Frame 95 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 70)
+Object 2:(7, 61)
+Object 1:(6, 75)
+
+
+Frame 96 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 71)
+Object 2:(8, 61)
+Object 1:(6, 76)
+
+
+Frame 97 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 76)
+
+
+Frame 98 : 
+-------- 
+Object 3:(1, 69)
+Object 0:(12, 72)
+Object 2:(8, 62)
+Object 1:(6, 77)
+
+
+Frame 99 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 73)
+Object 2:(8, 62)
+Object 1:(5, 78)
+
+
+Frame 100 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 73)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 101 : 
+-------- 
+Object 3:(1, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 79)
+
+
+Frame 102 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 74)
+Object 2:(8, 63)
+Object 1:(5, 80)
+
+
+Frame 103 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(11, 75)
+Object 2:(8, 64)
+Object 1:(5, 81)
+
+
+Frame 104 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 75)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 105 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 82)
+
+
+Frame 106 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 76)
+Object 2:(8, 64)
+Object 1:(5, 83)
+
+
+Frame 107 : 
+-------- 
+Object 3:(2, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(5, 84)
+
+
+Frame 108 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 77)
+Object 2:(8, 64)
+Object 1:(4, 84)
+
+
+Frame 109 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(10, 78)
+Object 2:(9, 65)
+Object 1:(4, 85)
+
+
+Frame 110 : 
+-------- 
+Object 3:(3, 70)
+Object 0:(9, 78)
+Object 2:(9, 64)
+Object 1:(4, 86)
+
+
+Frame 111 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 79)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 112 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 87)
+
+
+Frame 113 : 
+-------- 
+Object 3:(4, 70)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 114 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 80)
+Object 2:(9, 64)
+Object 1:(4, 88)
+
+
+Frame 115 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(9, 64)
+Object 1:(4, 89)
+
+
+Frame 116 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 81)
+Object 2:(10, 64)
+Object 1:(4, 90)
+
+
+Frame 117 : 
+-------- 
+Object 3:(5, 71)
+Object 0:(9, 82)
+Object 2:(10, 64)
+Object 1:(3, 90)
+
+
+Frame 118 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 82)
+Object 2:(10, 64)
+Object 1:(3, 91)
+
+
+Frame 119 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(10, 64)
+Object 1:(3, 92)
+
+
+Frame 120 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 83)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 121 : 
+-------- 
+Object 3:(6, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 93)
+
+
+Frame 122 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(8, 84)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 123 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 94)
+
+
+Frame 124 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 85)
+Object 2:(11, 64)
+Object 1:(3, 95)
+
+
+Frame 125 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(11, 64)
+Object 1:(2, 96)
+
+
+Frame 126 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 86)
+Object 2:(12, 64)
+Object 1:(2, 96)
+
+
+Frame 127 : 
+-------- 
+Object 3:(7, 71)
+Object 0:(7, 87)
+Object 2:(12, 63)
+Object 1:(2, 97)
+
+
+
+A collision is defined as the phenomenon where the difference between both the X and Y coordinates of both objects is less than 12 units.Based on the given data, answer the questions posed by the user.
+
+
+
+Question : Which of the following will not happen if the cylinder is removed?
+Choice 0 : The brown object collides with the cube
+Choice 1 : The gray sphere and the cube collide
+Choice 2 : The rubber sphere and the gray object collide
+
+Question Type : counterfactual
+Answer : 0
+GPT Answer : <api call here>

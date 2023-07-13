@@ -1,6 +1,7 @@
 import os
 import glob
 import json
+import time
 
 import numpy as np
 import cv2
@@ -8,16 +9,16 @@ from scipy import spatial
 import pycocotools._mask as _mask
 import matplotlib.pyplot as plt
 import torch
-import pandas as pd
+#import pandas as pd
 # from detector import get_coords # deprecated
 
-import ast
+#import ast
 import openai
-import tiktoken
+#import tiktoken
 
 
 GPT_MODEL = "gpt-3.5-turbo"
-OPENAI_API_KEY = "XXXXXXXXXXXX" # ADD API KEY HERE
+OPENAI_API_KEY = "sk-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" # ADD API KEY HERE
 
 # default vars
 H = 100
@@ -27,9 +28,11 @@ bbox_size = 24
 #####################################################################################
 
 def init_openai():
+    '''
     if len(sys.argv) < 2:
         print("Usage: python3 + " + GPT_MODEL)
         sys.exit(1)
+    '''
     
     openai.api_key = OPENAI_API_KEY
 
@@ -59,7 +62,7 @@ def get_object_properties(video_id):
     """
     Gets the object properties (shape, color, material) from the ground truth annotation file (downloaded separately)
     """
-    annotation_path = "/home/rajat/research/causality/annotation_validation/annotation_14000-15000/annotation_" + video_id + ".json" # CHANGE PATH
+    annotation_path = "/Users/rajat/Downloads/annotation_validation/annotation_14000-15000/annotation_" + video_id + ".json" # CHANGE PATH
     annotation_file = open(annotation_path)
     annotation_data = json.load(annotation_file)
 
@@ -80,14 +83,15 @@ def get_coords(video_id):
     Returns framewise coordinates of each object from proposal_(video_id).json file (derendered proposals downloaded separately)
     Also writes it to a separate log file for later use
     """
-    proposal_path = "/home/rajat/research/causality/derender_proposals/proposal_" + video_id + ".json" # CHANGE PATH
+    proposal_path = "/Users/rajat/Downloads/derender_proposals/proposal_" + video_id + ".json"
     prop_file = open(proposal_path)
     prop_data = json.load(prop_file)
 
     idx = prop_data["frames"]
+    print("\n") # separator for terminal output
 
     try:
-        with open("gpt_coords/" + video_id + "_coords.txt", 'w') as c:
+        with open("gpt_logs_test/" + video_id + "_coords.txt", 'w') as c:
             for i in range(len(idx)):
                 c.write("\nFrame " + str(idx[i]["frame_index"]) + " : " + "\n")
                 c.write("-------- \n")
@@ -95,13 +99,16 @@ def get_coords(video_id):
                     # assigning the correct object id to every object (as per the annotation file)
                     object_id = 0
                     object_properties = [idx[i]["objects"][j]["color"], idx[i]["objects"][j]["material"], idx[i]["objects"][j]["shape"]]
-
+                    #print(object_properties)
+                    
                     object_annotations = object_match(video_id)
+                    
                     try:
                         object_id = [obj_id for obj_id in object_annotations if object_annotations[obj_id] == object_properties][0]
                     except IndexError:
                         object_id = "X"
                         print("Mismatched object properties in Video", video_id, "Frame", str(idx[i]["frame_index"]) + ". Object marked as Object X.")
+                    
 
                     mask_raw = decode(idx[i]["objects"][j]["mask"])
                     mask = cv2.resize(mask_raw, (W,H), interpolation=cv2.INTER_NEAREST)
@@ -132,7 +139,7 @@ def define_system_prompt(video_id):
     
     get_coords(video_id) # adds framewise coordinates to the system prompt
     try:
-        with open("gpt_coords/" + video_id + "_coords.txt", 'r') as f:
+        with open("gpt_logs_test/" + video_id + "_coords.txt", 'r') as f:
             coords = f.read()
             system_prompt += coords
     except FileNotFoundError:
@@ -140,7 +147,8 @@ def define_system_prompt(video_id):
 
     #system_prompt += coords
     system_prompt += "\n\n"
-    system_prompt += "We can define a collision as a phenomenon where the difference between either the X or the Y coordinates of two different objects is less than 3 units. \n\n" # change definition of collision (07/05)
+    #system_prompt += "We can define a collision as a phenomenon where the difference between either the X or the Y coordinates of two different objects is less than 3 units. \n\n" # change definition of collision (07/05)
+    system_prompt += "A collision is defined as the phenomenon where the difference between both the X and Y coordinates of both objects is less than 12 units." # based on newer bboxes
     system_prompt += "Based on the given data, answer the questions posed by the user."
 
     return system_prompt
@@ -150,14 +158,14 @@ def main():
 
     # ADD PATH TO DIRECTORY CONTAINING VIDEO FILES HERE
     video_ids = []
-    vid_path = "/home/rajat/research/causality/video_test/" # currently using only 1000 videos due to API rate limits
+    vid_path = "/Users/rajat/Desktop/microsoft/video_test/" # currently using only 1000 videos due to API rate limits
     for path in os.walk(vid_path):
         for id in path[2]:
             video_ids.append(id[6:11])
-    print(video_ids)
+    #print(video_ids)
 
     # ADD PATH TO validation.json FILE HERE
-    qa_path = "/home/rajat/research/causality/validation.json"
+    qa_path = "/Users/rajat/Desktop/microsoft/validation.json"
     qa_file = open(qa_path)
     qa_data = json.load(qa_file)
 
@@ -169,7 +177,7 @@ def main():
         for qa_id in range(len(qa_data)):
             if qa_data[qa_id]["video_filename"][6:11] == video_id:
                 try:
-                    with open("gpt_logs/" + video_id + ".txt", 'w') as f:
+                    with open("gpt_logs_test/" + video_id + ".txt", 'w') as f:
                         f.write("Video ID: " + video_id + "\n")
                         for question in range(len(qa_data[qa_id]["questions"])):
                             if qa_data[qa_id]["questions"][question]["question_type"] == "descriptive":
@@ -198,10 +206,12 @@ def main():
                                     if qa_data[qa_id]["questions"][question]["choices"][correct_choice]["answer"] == "correct":
                                         correct_choices.append(qa_data[qa_id]["questions"][question]["choices"][correct_choice]["choice_id"])
                                         
-                                    answer = ','.join(str(x) for x in correct_choices) # correct answer(s)
+                                    answer = ','.join(str(x) for x in correct_choices) # correct answer
                 
-                            
+                            gpt_answer = "<api call here>" # debug
+
                             # call openai api
+                            time.sleep(30) # to ensure rate limit is not exceeded
                             response = openai.ChatCompletion.create(
                                 messages = [
                                     {'role': 'system', 'content': system_prompt},
@@ -213,13 +223,11 @@ def main():
 
                             gpt_answer = response["choices"][0]["message"]["content"]
 
-                            
                             # create log file
 
                             # for debugging purposes. system prompt is not stored in the log file by default. 
                             # uncomment the below three lines if you want them stored in the log file alongside the user prompt
                             # note: system prompt includes framewise coordinates for all objects, making the log file difficult to follow
-                            
                             '''
                             f.write("\n\n\n")
                             f.write("System Prompt: " + system_prompt)
