@@ -15,14 +15,14 @@ Please install [PyTorch](https://pytorch.org/get-started/locally/) as per your s
 pip install -r requirements.txt 
 ```
 
-Change the paths at the following lines: <br>
+In ```main.py```, change the paths at the following lines: <br>
     &emsp;Line 21: Add API Key <br>
     &emsp;Line 65: Add path to the annotation directory ```(Validation Annotations)``` <br>
     &emsp;Line 86: Add path to the proposal directory ```(Object Masks and Attributes)``` <br>
     &emsp;Line 161: Add path to directory with all video files ```(Validation Videos)``` <br>
     &emsp;Line 168: Add path to the ```validation.json``` file ```(Validation Questions and Answers)``` <br>
 
-All directories can be downloaded from the [CLEVRER dataset page](http://clevrer.csail.mit.edu/)
+All directories can be downloaded from the [CLEVRER dataset page](http://clevrer.csail.mit.edu/).
 
 <br>
 
